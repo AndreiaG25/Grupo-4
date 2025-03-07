@@ -9,7 +9,7 @@ Morada: Braga
 ---
 
 
-![Fotografia](https://github.com/AndreiaG25/AVD/blob/main/Entrevista_Ana_Gabi.jpg)
+![Fotografia](https://github.com/AndreiaG25/AVD/blob/main/Entrevista_Ana_Gabi.jpg "Ana Gabriela e Tatiana")
   
 **Entrevistadora:** Olá, então, podes começar por me dizer o teu nome, qual a tua idade e o que é que tu fazes?
 
