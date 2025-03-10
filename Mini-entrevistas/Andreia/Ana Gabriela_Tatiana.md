@@ -8,8 +8,10 @@ Data de nascimento: 1999
 Morada: Braga
 ---
 
-
-![Fotografia](https://github.com/AndreiaG25/AVD/blob/main/Entrevista_Ana_Gabi.jpg "Ana Gabriela e Tatiana")
+<figure>
+  <img src="[https://github.com/AndreiaG25/AVD/blob/main/Entrevista_Ana_Gabi.jpg]" alt="Ana Gabriela e Tatiana no Natal de 2024">
+  <figcaption>Ana Gabriela (à esquerda) e a namorada, Tatiana (à direita), nesta foto tirada no Natal de 2024.</figcaption>
+</figure>
   
 **Entrevistadora:** Olá, então, podes começar por me dizer o teu nome, qual a tua idade e o que é que tu fazes?
 
