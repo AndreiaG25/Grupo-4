@@ -9,7 +9,7 @@ Morada: Braga
 ---
 
 <figure>
-  <img src="[https://github.com/AndreiaG25/AVD/blob/main/Entrevista_Ana_Gabi.jpg]" alt="Ana Gabriela e Tatiana no Natal de 2024">
+  <img src="https://github.com/AndreiaG25/Grupo-4/blob/main/Mini-entrevistas/Andreia/Ana%20Gabriela_Tatiana.jpg" alt="Ana Gabriela e Tatiana no Natal de 2024">
   <figcaption>Ana Gabriela (à esquerda) e a namorada, Tatiana (à direita), nesta foto tirada no Natal de 2024.</figcaption>
 </figure>
   
