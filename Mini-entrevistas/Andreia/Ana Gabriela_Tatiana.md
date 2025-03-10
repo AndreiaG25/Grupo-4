@@ -12,7 +12,8 @@ Morada: Braga
   <img src="https://github.com/AndreiaG25/Grupo-4/blob/main/Mini-entrevistas/Andreia/Ana%20Gabriela_Tatiana.jpg" alt="Ana Gabriela e Tatiana no Natal de 2024">
   <figcaption>Ana Gabriela (à esquerda) e a namorada, Tatiana (à direita), nesta foto tirada no Natal de 2024.</figcaption>
 </figure>
- <hr>  
+<hr>  
+ 
 **Entrevistadora:** Olá, então, podes começar por me dizer o teu nome, qual a tua idade e o que é que tu fazes?
 
 **Entrevistada:** Eu chamo-me Ana Gabriela, tenho 25 anos e eu trabalho a part-time na Primark, e estou a fazer um curso de maiores de 23 na Universidade do Minho.
