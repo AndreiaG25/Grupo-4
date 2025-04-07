@@ -1,14 +1,13 @@
 ---
-Título: "Consciência e Ação: O ativismo de Teresa Amorim"
-Data da entrevista: 31/03/2025
-Entrevistadora: Andreia Gonçalves
 Entrevistada: Teresa Amorim
+Entrevistadora: Andreia Gonçalves
+Data da entrevista: 31/03/2025
 Emprego: Oficial de Justiça
 Idade: 26 anos
 Morada: Porto
 ---
 
-### Entrevista a Teresa Amorim
+### Consciência e Ação: O ativismo de Teresa Amorim
 
 <figure>
   <img src="https://github.com/AndreiaG25/Grupo-4/blob/main/Entrevistas/Andreia/Teresa_ativismo.png" alt="Teresa numa manifestação">
