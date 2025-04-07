@@ -81,7 +81,7 @@ Foi um momento muito emocionante. Esse foi o objeto que eu trouxe também. Desde
   <img src="https://github.com/AndreiaG25/Grupo-4/blob/main/Entrevistas/Andreia/keffiyeh.jpg" alt="Keffiyeh">
   <figcaption>Keffiyeh que a Teresa recebeu da Masha.</figcaption>
 </figure>
-
+<br>
 
 A ideia não era ele ficar guardado em casa, ela queria muito que eu usasse. E eu fui-lhe mandando fotografias em protestos, sempre a mostrar que o keffiyeh andava comigo. Então este objeto para mim representa resistência, representa libertação e união além de fronteiras.
 
