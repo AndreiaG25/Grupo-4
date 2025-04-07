@@ -1,4 +1,5 @@
 ---
+Título: Consciência e Ação: O ativismo de Teresa Amorim
 Entrevistada: Teresa Amorim
 Entrevistadora: Andreia Gonçalves
 Data da entrevista: 31/03/2025
