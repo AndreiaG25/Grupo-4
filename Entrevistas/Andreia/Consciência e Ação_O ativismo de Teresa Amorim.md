@@ -82,6 +82,7 @@ Foi um momento muito emocionante. Esse foi o objeto que eu trouxe também. Desde
   <figcaption>Keffiyeh que a Teresa recebeu da Masha.</figcaption>
 </figure>
 
+
 A ideia não era ele ficar guardado em casa, ela queria muito que eu usasse. E eu fui-lhe mandando fotografias em protestos, sempre a mostrar que o keffiyeh andava comigo. Então este objeto para mim representa resistência, representa libertação e união além de fronteiras.
 
 E acho que é um símbolo de resistência muito importante, não só para as pessoas palestinianas, mas para todo o mundo, para todas as pessoas. Acho que em termos de ativismos, que lutar por tantas causas e não lutar pela libertação da Palestina, algo aí não está correto, algo não está certo. Além disso, esta luta pela libertação da Palestina fez-me reparar que é quase um deal-breaker dentro do ativismo.
