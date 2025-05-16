@@ -20,6 +20,8 @@ Análise e Visualização de Dados – Mestrado em Humanidades Digitais
 **Entrevistadora**: Eu te chamei aqui pra fazer uma entrevista com você, cujo tema é a nossa história de amor. Pra isso, eu queria pedir inicialmente pra você se apresentar.  
 **Entrevistada**: Meu nome é Vitória Ramos, tenho 26 anos, moro em Portugal, mas sou brasileira e estou aqui já há três anos. E sou sua namorada.
 
+<img src="./imagens/vitoriaramos.jpeg" alt="Foto da Vitoria e Carolina" width="300" />
+
 **Entrevistadora**: Perfeito, Vitória. Sobre a nossa história, você se lembra da primeira mensagem ou conversa que tivemos pela internet?  
 **Entrevistada**: Sim, lembro. Foi pelo Instagram, depois que eu comentei uma foto sua. Passados uns dias, você me mandou uma cantada e depois disso, começamos a conversar pelo Instagram, depois eu pedi seu número e começamos a trocar mensagens também pelo WhatsApp.
 
@@ -65,6 +67,8 @@ Análise e Visualização de Dados – Mestrado em Humanidades Digitais
 **Entrevistadora**: O que mais te faz sentir amada no nosso dia a dia?  
 **Entrevistada**: O que mais me faz sentir amada no nosso dia a dia é o cuidado que você tem comigo. Não só quando estou doente ou com os nossos afazeres, mas de forma geral. É muito bom saber que tem alguém aqui pra você em todos os momentos, sejam bons ou ruins.
 
+<img src="./imagens/vitoria-carolina-neve.jpeg" alt="Foto da Vitoria e Carolina" width="300" />
+
 **Entrevistadora**: O que você mais admira em mim?  
 **Entrevistada**: Tem diversas coisas que eu acho admirável em você. Uma delas é como você se preocupa e cuida de todos que ama. Família, amigos e eu. Você é aquela pessoa que todos podem contar quando precisa. Também admiro sua determinação em fazer as coisas darem certo. Sua positividade, honestidade, inteligência e várias outras.
 
@@ -77,6 +81,8 @@ Análise e Visualização de Dados – Mestrado em Humanidades Digitais
 ---
 
 ## 💘 Quiz do casal:
+
+<img src="./imagens/vitoria-carolina-marrocos.jpeg" alt="Foto da Vitoria e Carolina" width="300" />
 
 **Entrevistadora**: Agora, eu separei algumas perguntas que eu denominei como quiz do amor. São perguntas curtas, em tese com respostas rápidas e objetivas, você ou eu. Mas, eu gostaria que você justificasse a sua resposta. Então, eu vou te fazer uma pergunta, você me diz se é você ou se sou eu e por quê. Ok?  
 **Entrevistada**: Ok.
@@ -113,7 +119,7 @@ Análise e Visualização de Dados – Mestrado em Humanidades Digitais
 
 ---
 
-> _[Inserir outra imagem aqui – exemplo: ![Nosso primeiro encontro](./imagens/encontro.jpg)]_
-
 **Entrevistadora**: Então, eu gostaria de te pedir para descrever a nossa relação. O que nós somos para você?  
 **Entrevistada**: Somos a junção de duas pessoas que se amam muito. Diferentes, mas que combinam em muitas coisas. A junção de tudo que eu sempre quis viver e nem sabia que precisava. Estar com você faz com que eu me sinta bem. Saber que eu posso ser o mesmo é incrível. Nós nos conhecemos em todas as nossas particularidades, com todas as qualidades e defeitos. E ainda assim escolhemos uma à outra. Somos amigas, namoradas e parceiras de vida. E eu te amo.
+
+<img src="./imagens/vitoria-carolina-milao.jpeg" alt="Foto da Vitoria e Carolina" width="300" />
