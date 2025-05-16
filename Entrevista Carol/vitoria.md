@@ -1,6 +1,6 @@
 # 💕 Entrevista - Um Oceano de Amor 💕
 
-> _[Foto do casal aqui – exemplo: ![Nós duas sorrindo](./imagens/nos-duas.jpg)]_
+> _[Foto do casal aqui – exemplo: ![Nós duas sorrindo](./imagens/vitoria-carolina.jpg)]_
 
 **Entrevistadora**: Oi, boa noite.  
 **Entrevistada**: Oi, boa noite.
