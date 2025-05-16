@@ -1,6 +1,17 @@
-# 💕 Entrevista - Um Oceano de Amor 💕
+**Entrevistadora:** Carolina Motta [PG56348] <br>
+**Entrevistada:** Vitória Ramos  
 
-> _[Foto do casal aqui – exemplo: ![Nós duas sorrindo](./imagens/vitoria-carolina.jpg)]_
+**Descrição:**  
+Entrevista sobre a nossa história de amor, com perguntas e respostas que revelam momentos importantes do nosso relacionamento à distância.
+
+**Unidade Curricular:**  
+Análise e Visualização de Dados – Mestrado em Humanidades Digitais
+
+---
+
+## Um Oceano de Amor 🧡
+
+<img src="./imagens/vitoria-carolina.jpeg" alt="Foto da Vitoria e Carolina" width="300" />
 
 **Entrevistadora**: Oi, boa noite.  
 **Entrevistada**: Oi, boa noite.
@@ -64,7 +75,7 @@
 
 ---
 
-## 💘 Quiz do Amor
+## 💘 Quiz do Amor:
 
 **Entrevistadora**: Agora, eu separei algumas perguntas que eu denominei como quiz do amor. São perguntas curtas, em tese com respostas rápidas e objetivas, você ou eu. Mas, eu gostaria que você justificasse a sua resposta. Então, eu vou te fazer uma pergunta, você me diz se é você ou se sou eu e por quê. Ok?  
 **Entrevistada**: Ok.
