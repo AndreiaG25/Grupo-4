@@ -123,3 +123,5 @@ Análise e Visualização de Dados – Mestrado em Humanidades Digitais
 **Entrevistada**: Somos a junção de duas pessoas que se amam muito. Diferentes, mas que combinam em muitas coisas. A junção de tudo que eu sempre quis viver e nem sabia que precisava. Estar com você faz com que eu me sinta bem. Saber que eu posso ser o mesmo é incrível. Nós nos conhecemos em todas as nossas particularidades, com todas as qualidades e defeitos. E ainda assim escolhemos uma à outra. Somos amigas, namoradas e parceiras de vida. E eu te amo.
 
 <img src="./imagens/vitoria-carolina-milao.jpeg" alt="Foto da Vitoria e Carolina" width="300" />
+
+ 🧡
