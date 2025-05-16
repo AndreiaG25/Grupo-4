@@ -13,6 +13,7 @@ Análise e Visualização de Dados – Mestrado em Humanidades Digitais
 
 <img src="./imagens/vitoria-carolina.jpeg" alt="Foto da Vitoria e Carolina" width="300" />
 
+
 **Entrevistadora**: Oi, boa noite.  
 **Entrevistada**: Oi, boa noite.
 
@@ -75,7 +76,7 @@ Análise e Visualização de Dados – Mestrado em Humanidades Digitais
 
 ---
 
-## 💘 Quiz do Amor:
+## 💘 Quiz do casal:
 
 **Entrevistadora**: Agora, eu separei algumas perguntas que eu denominei como quiz do amor. São perguntas curtas, em tese com respostas rápidas e objetivas, você ou eu. Mas, eu gostaria que você justificasse a sua resposta. Então, eu vou te fazer uma pergunta, você me diz se é você ou se sou eu e por quê. Ok?  
 **Entrevistada**: Ok.
