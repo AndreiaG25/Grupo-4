@@ -1,0 +1,317 @@
+=== ANÁLISE DETALHADA DE SENTIMENTO ===
+
+PARÁGRAFO 1: NEGATIVE
+Preview: Olá, podes-te apresentar brevemente? Dizer qual é ...
+Polaridade Geral: -0.140182
+Polaridade Média das Palavras: 0.123612
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 16
+  Palavras positivas: 8 (50.0%)
+  Palavras negativas: 2 (12.5%)
+  Palavras neutras: 6 (37.5%)
+
+PALAVRAS MAIS POSITIVAS:
+  trabalhar (VERB): 0.444586
+  oficial (ADJ): 0.430049
+  viver (VERB): 0.400673
+  apresentar (VERB): 0.380893
+  especializar (VERB): 0.333443
+
+PALAVRAS MAIS NEGATIVAS:
+  violência (NOUN): -0.355514
+  mora (NOUN): -0.216591
+
+============================================================
+
+PARÁGRAFO 2: NEUTRAL
+Preview: Esta entrevista vai-se focar, basicamente, na tua ...
+Polaridade Geral: 0.078272
+Polaridade Média das Palavras: 0.130161
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 75
+  Palavras positivas: 36 (48.0%)
+  Palavras negativas: 10 (13.3%)
+  Palavras neutras: 10 (13.3%)
+
+PALAVRAS MAIS POSITIVAS:
+  future (ADJ): 0.564355
+  gostar (VERB): 0.559077
+  envolvido (ADJ): 0.522604
+  perceber (VERB): 0.480343
+  formar (VERB): 0.467476
+
+PALAVRAS MAIS NEGATIVAS:
+  deprimido (ADJ): -0.788596
+  existir (VERB): -0.567221
+  puxar (VERB): -0.486482
+  acabar (VERB): -0.412825
+  desencantar (VERB): -0.406690
+
+============================================================
+
+PARÁGRAFO 3: POSITIVE
+Preview: A tua família ou amigos influenciaram esta decisão...
+Polaridade Geral: 0.240890
+Polaridade Média das Palavras: 0.175440
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 52
+  Palavras positivas: 26 (50.0%)
+  Palavras negativas: 8 (15.4%)
+  Palavras neutras: 7 (13.5%)
+
+PALAVRAS MAIS POSITIVAS:
+  gostar (VERB): 0.559077
+  construir (VERB): 0.521259
+  sozinho (ADJ): 0.498804
+  amigo (NOUN): 0.465359
+  amizade (NOUN): 0.457953
+
+PALAVRAS MAIS NEGATIVAS:
+  haver (VERB): -0.426366
+  acabar (VERB): -0.412825
+  envolver se (VERB): -0.181171
+  principalmente (ADV): -0.164774
+  mudança (NOUN): -0.159317
+
+============================================================
+
+PARÁGRAFO 4: NEUTRAL
+Preview: Relativamente, agora, às organizações e às causas,...
+Polaridade Geral: 0.081008
+Polaridade Média das Palavras: 0.237930
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 29
+  Palavras positivas: 20 (69.0%)
+  Palavras negativas: 3 (10.3%)
+  Palavras neutras: 1 (3.4%)
+
+PALAVRAS MAIS POSITIVAS:
+  conseguir (VERB): 0.550704
+  termos (NOUN): 0.520884
+  ajudar (VERB): 0.481531
+  organizar (VERB): 0.454909
+  cidade (NOUN): 0.388078
+
+PALAVRAS MAIS NEGATIVAS:
+  mudar (VERB): -0.348004
+  maioritariamente (ADV): -0.246471
+  mudança (NOUN): -0.159317
+
+============================================================
+
+PARÁGRAFO 5: NEUTRAL
+Preview: E como é que vieste a ter conhecimento destas asso...
+Polaridade Geral: 0.074819
+Polaridade Média das Palavras: 0.178488
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 116
+  Palavras positivas: 53 (45.7%)
+  Palavras negativas: 11 (9.5%)
+  Palavras neutras: 12 (10.3%)
+
+PALAVRAS MAIS POSITIVAS:
+  importante (ADJ): 0.684677
+  valente (ADJ): 0.652238
+  preciso (ADJ): 0.574567
+  fácil (ADJ): 0.555047
+  envolvir (VERB): 0.554234
+
+PALAVRAS MAIS NEGATIVAS:
+  existir (VERB): -0.567221
+  politizado (VERB): -0.560550
+  acabas (VERB): -0.483183
+  acabar (VERB): -0.412825
+  tirar (VERB): -0.359255
+
+============================================================
+
+PARÁGRAFO 6: POSITIVE
+Preview: E como é que costuma ser o teu dia-a-dia dentro de...
+Polaridade Geral: 0.303478
+Polaridade Média das Palavras: 0.248779
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 61
+  Palavras positivas: 42 (68.9%)
+  Palavras negativas: 6 (9.8%)
+  Palavras neutras: 3 (4.9%)
+
+PALAVRAS MAIS POSITIVAS:
+  importante (ADJ): 0.684677
+  acompanhar (VERB): 0.628199
+  sincero (ADJ): 0.623287
+  oportunidade (NOUN): 0.586553
+  preciso (ADJ): 0.574567
+
+PALAVRAS MAIS NEGATIVAS:
+  existir (VERB): -0.567221
+  fim (NOUN): -0.564367
+  protesto (NOUN): -0.373865
+  consiger (VERB): -0.243016
+  tentar (VERB): -0.206801
+
+============================================================
+
+PARÁGRAFO 7: POSITIVE
+Preview: Existe alguma experiência marcante que tenhas vivi...
+Polaridade Geral: 0.428380
+Polaridade Média das Palavras: 0.168361
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 93
+  Palavras positivas: 47 (50.5%)
+  Palavras negativas: 10 (10.8%)
+  Palavras neutras: 12 (12.9%)
+
+PALAVRAS MAIS POSITIVAS:
+  emocionante (ADJ): 0.791454
+  importante (ADJ): 0.684677
+  marcante (ADJ): 0.669929
+  saudade (NOUN): 0.604442
+  conseguir (VERB): 0.550704
+
+PALAVRAS MAIS NEGATIVAS:
+  morte (NOUN): -0.565729
+  andar (VERB): -0.558270
+  voltar (VERB): -0.508491
+  sanar (VERB): -0.385270
+  protesto (NOUN): -0.373865
+
+============================================================
+
+PARÁGRAFO 8: POSITIVE
+Preview: Nós vamos então passar à próxima pergunta, que é e...
+Polaridade Geral: 0.296355
+Polaridade Média das Palavras: 0.154538
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 70
+  Palavras positivas: 35 (50.0%)
+  Palavras negativas: 10 (14.3%)
+  Palavras neutras: 10 (14.3%)
+
+PALAVRAS MAIS POSITIVAS:
+  importante (ADJ): 0.684677
+  realmente (ADV): 0.666484
+  termos (NOUN): 0.520884
+  lutar (VERB): 0.514741
+  resistência (NOUN): 0.501667
+
+PALAVRAS MAIS NEGATIVAS:
+  andar (VERB): -0.558270
+  frágil (ADJ): -0.550487
+  fui-lhe (VERB): -0.475496
+  protesto (NOUN): -0.373865
+  antiguinho (ADJ): -0.287012
+
+============================================================
+
+PARÁGRAFO 9: NEGATIVE
+Preview: Relativamente agora a certos desafios, já enfrenta...
+Polaridade Geral: -0.114976
+Polaridade Média das Palavras: 0.168488
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 128
+  Palavras positivas: 65 (50.8%)
+  Palavras negativas: 20 (15.6%)
+  Palavras neutras: 14 (10.9%)
+
+PALAVRAS MAIS POSITIVAS:
+  ultrapassaste (NOUN): 0.706695
+  importante (ADJ): 0.684677
+  desafio (NOUN): 0.677472
+  bom (ADJ): 0.648155
+  próprio (ADJ): 0.602295
+
+PALAVRAS MAIS NEGATIVAS:
+  desgastante (ADJ): -0.719477
+  afastar (VERB): -0.694779
+  dificuldade (NOUN): -0.673980
+  desgastar (VERB): -0.605789
+  desamparar (VERB): -0.591504
+
+============================================================
+
+PARÁGRAFO 10: NEGATIVE
+Preview: Como é que tu vês o futuro destas causas? É assim,...
+Polaridade Geral: -0.131355
+Polaridade Média das Palavras: 0.206909
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 105
+  Palavras positivas: 57 (54.3%)
+  Palavras negativas: 11 (10.5%)
+  Palavras neutras: 6 (5.7%)
+
+PALAVRAS MAIS POSITIVAS:
+  consiga (VERB): 0.726152
+  próprio (ADJ): 0.602295
+  essencial (ADJ): 0.599790
+  gostar (VERB): 0.559077
+  conseguir (VERB): 0.550704
+
+PALAVRAS MAIS NEGATIVAS:
+  pessimista (ADJ): -0.869454
+  desocupar (VERB): -0.679610
+  haver (VERB): -0.426366
+  tirar (VERB): -0.359255
+  diferente (ADJ): -0.302428
+
+============================================================
+
+PARÁGRAFO 11: POSITIVE
+Preview: E que conselho darias a alguém que quer começar a ...
+Polaridade Geral: 0.387692
+Polaridade Média das Palavras: 0.276422
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 71
+  Palavras positivas: 43 (60.6%)
+  Palavras negativas: 4 (5.6%)
+  Palavras neutras: 5 (7.0%)
+
+PALAVRAS MAIS POSITIVAS:
+  próprio (ADJ): 0.602295
+  recomendação (NOUN): 0.579825
+  atento (ADJ): 0.555900
+  conseguir (VERB): 0.550704
+  construir (VERB): 0.521259
+
+PALAVRAS MAIS NEGATIVAS:
+  devagarinho (NOUN): -0.627841
+  haver (VERB): -0.426366
+  protesto (NOUN): -0.373865
+  bocadinho (NOUN): -0.108656
+
+============================================================
+
+PARÁGRAFO 12: POSITIVE
+Preview: Agora para encerrar, não sei se existe, se há algo...
+Polaridade Geral: 0.124652
+Polaridade Média das Palavras: 0.025107
+
+ESTATÍSTICAS DE PALAVRAS:
+  Total de palavras analisadas: 13
+  Palavras positivas: 4 (30.8%)
+  Palavras negativas: 3 (23.1%)
+  Palavras neutras: 4 (30.8%)
+
+PALAVRAS MAIS POSITIVAS:
+  conseguir (VERB): 0.550704
+  abordar (VERB): 0.265675
+  partilhar (VERB): 0.261461
+  falar (VERB): 0.212177
+
+PALAVRAS MAIS NEGATIVAS:
+  existir (VERB): -0.567221
+  acabamos (VERB): -0.289685
+  bocadinho (NOUN): -0.108656
+
+============================================================
+

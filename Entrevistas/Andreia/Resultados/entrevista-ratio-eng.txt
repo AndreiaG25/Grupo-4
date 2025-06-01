@@ -1,0 +1,308 @@
+=== DETAILED SENTIMENT ANALYSIS ===
+
+PARAGRAPH 1: POSITIVE
+Preview: Hello, can you briefly introduce yourself? Say you...
+Overall Polarity: 0.211825
+Average Word Polarity: 0.276920
+
+WORD STATISTICS:
+  Total words analyzed: 16
+  Positive words: 13 (81.2%)
+  Negative words: 2 (12.5%)
+  Neutral words: 0 (0.0%)
+
+MOST POSITIVE WORDS:
+  introduce (VERB): 0.719687
+  live (VERB): 0.532582
+  work (VERB): 0.457149
+  right (ADV): 0.424208
+  age (NOUN): 0.406282
+
+MOST NEGATIVE WORDS:
+  violence (NOUN): -0.292699
+  briefly (ADV): -0.119794
+
+============================================================
+
+PARAGRAPH 2: POSITIVE
+Preview: This interview will focus mainly on your relations...
+Overall Polarity: 0.165333
+Average Word Polarity: 0.237327
+
+WORD STATISTICS:
+  Total words analyzed: 75
+  Positive words: 44 (58.7%)
+  Negative words: 5 (6.7%)
+  Neutral words: 8 (10.7%)
+
+MOST POSITIVE WORDS:
+  come (VERB): 0.709140
+  enjoy (VERB): 0.637303
+  meet (VERB): 0.570639
+  engaged (ADJ): 0.569005
+  dedicate (VERB): 0.562993
+
+MOST NEGATIVE WORDS:
+  depressed (ADJ): -0.720223
+  opposition (NOUN): -0.356368
+  disenchanted (ADJ): -0.350835
+  mainly (ADV): -0.325494
+  criminology (NOUN): -0.101263
+
+============================================================
+
+PARAGRAPH 3: POSITIVE
+Preview: Did your family or friends influence your decision...
+Overall Polarity: 0.112030
+Average Word Polarity: 0.321276
+
+WORD STATISTICS:
+  Total words analyzed: 48
+  Positive words: 30 (62.5%)
+  Negative words: 1 (2.1%)
+  Neutral words: 6 (12.5%)
+
+MOST POSITIVE WORDS:
+  engaged (ADJ): 0.569005
+  friendship (NOUN): 0.560634
+  new (ADJ): 0.559951
+  interact (VERB): 0.542435
+  supportive (ADJ): 0.539837
+
+MOST NEGATIVE WORDS:
+  change (VERB): -0.243486
+
+============================================================
+
+PARAGRAPH 4: POSITIVE
+Preview: Now, regarding organizations and causes, which mov...
+Overall Polarity: 0.294840
+Average Word Polarity: 0.222200
+
+WORD STATISTICS:
+  Total words analyzed: 25
+  Positive words: 16 (64.0%)
+  Negative words: 3 (12.0%)
+  Neutral words: 1 (4.0%)
+
+MOST POSITIVE WORDS:
+  new (ADJ): 0.559951
+  active (ADJ): 0.532867
+  organize (VERB): 0.524524
+  think (VERB): 0.459294
+  city (NOUN): 0.432225
+
+MOST NEGATIVE WORDS:
+  racist (ADJ): -0.685243
+  cause (NOUN): -0.429603
+  anti (ADJ): -0.425770
+
+============================================================
+
+PARAGRAPH 5: POSITIVE
+Preview: How did you learn about these organizations? Why a...
+Overall Polarity: 0.205631
+Average Word Polarity: 0.255817
+
+WORD STATISTICS:
+  Total words analyzed: 116
+  Positive words: 68 (58.6%)
+  Negative words: 10 (8.6%)
+  Neutral words: 8 (6.9%)
+
+MOST POSITIVE WORDS:
+  come (VERB): 0.709140
+  important (ADJ): 0.678953
+  easy (ADJ): 0.673896
+  promote (VERB): 0.617487
+  organically (ADV): 0.582891
+
+MOST NEGATIVE WORDS:
+  oppression (NOUN): -0.745809
+  politicized (ADJ): -0.609042
+  protest (NOUN): -0.599022
+  cause (NOUN): -0.429603
+  mainly (ADV): -0.325494
+
+============================================================
+
+PARAGRAPH 6: POSITIVE
+Preview: What does your day-to-day involvement in these cau...
+Overall Polarity: 0.475556
+Average Word Polarity: 0.277094
+
+WORD STATISTICS:
+  Total words analyzed: 56
+  Positive words: 41 (73.2%)
+  Negative words: 5 (8.9%)
+  Neutral words: 2 (3.6%)
+
+MOST POSITIVE WORDS:
+  important (ADJ): 0.678953
+  prepare (VERB): 0.605864
+  provide (VERB): 0.569335
+  dedicate (VERB): 0.562993
+  free (ADJ): 0.527371
+
+MOST NEGATIVE WORDS:
+  cause (NOUN): -0.429603
+  exist (VERB): -0.320291
+  require (VERB): -0.257688
+  update (NOUN): -0.244903
+  normally (ADV): -0.154442
+
+============================================================
+
+PARAGRAPH 7: POSITIVE
+Preview: Is there a particularly meaningful experience you'...
+Overall Polarity: 0.376525
+Average Word Polarity: 0.220626
+
+WORD STATISTICS:
+  Total words analyzed: 79
+  Positive words: 49 (62.0%)
+  Negative words: 10 (12.7%)
+  Neutral words: 5 (6.3%)
+
+MOST POSITIVE WORDS:
+  come (VERB): 0.709140
+  meet (VERB): 0.570639
+  able (ADJ): 0.562779
+  meaningful (ADJ): 0.547098
+  participate (VERB): 0.520444
+
+MOST NEGATIVE WORDS:
+  return (VERB): -0.720026
+  pass (VERB): -0.640117
+  death (NOUN): -0.600376
+  protest (NOUN): -0.599022
+  cause (NOUN): -0.429603
+
+============================================================
+
+PARAGRAPH 8: POSITIVE
+Preview: So, what object did you bring and what does it mea...
+Overall Polarity: 0.348434
+Average Word Polarity: 0.198645
+
+WORD STATISTICS:
+  Total words analyzed: 55
+  Positive words: 27 (49.1%)
+  Negative words: 7 (12.7%)
+  Neutral words: 7 (12.7%)
+
+MOST POSITIVE WORDS:
+  truly (ADV): 0.848648
+  come (VERB): 0.709140
+  represent (VERB): 0.696215
+  important (ADJ): 0.678953
+  unity (NOUN): 0.622436
+
+MOST NEGATIVE WORDS:
+  wrong (ADJ): -0.764839
+  protest (NOUN): -0.599022
+  fragile (ADJ): -0.585327
+  cause (NOUN): -0.429603
+  object (NOUN): -0.318310
+
+============================================================
+
+PARAGRAPH 9: NEUTRAL
+Preview: Have you faced any obstacles or difficulties in ac...
+Overall Polarity: -0.052492
+Average Word Polarity: 0.251017
+
+WORD STATISTICS:
+  Total words analyzed: 119
+  Positive words: 74 (62.2%)
+  Negative words: 16 (13.4%)
+  Neutral words: 7 (5.9%)
+
+MOST POSITIVE WORDS:
+  truly (ADV): 0.848648
+  comrade (NOUN): 0.777842
+  come (VERB): 0.709140
+  peacefully (ADV): 0.703287
+  strong (ADJ): 0.689400
+
+MOST NEGATIVE WORDS:
+  burnout (NOUN): -0.642504
+  harsh (ADJ): -0.637028
+  protest (NOUN): -0.599022
+  aggression (NOUN): -0.552878
+  vulnerable (ADJ): -0.507883
+
+============================================================
+
+PARAGRAPH 10: POSITIVE
+Preview: How do you see the future of these causes? I like ...
+Overall Polarity: 0.363792
+Average Word Polarity: 0.338491
+
+WORD STATISTICS:
+  Total words analyzed: 88
+  Positive words: 57 (64.8%)
+  Negative words: 7 (8.0%)
+  Neutral words: 3 (3.4%)
+
+MOST POSITIVE WORDS:
+  proudly (ADV): 0.855367
+  commendable (ADJ): 0.849745
+  truly (ADV): 0.848648
+  exactly (ADV): 0.814970
+  essential (ADJ): 0.793886
+
+MOST NEGATIVE WORDS:
+  pessimistic (ADJ): -0.882187
+  cause (NOUN): -0.429603
+  stereotype (NOUN): -0.370669
+  different (ADJ): -0.258357
+  maybe (ADV): -0.211779
+
+============================================================
+
+PARAGRAPH 11: POSITIVE
+Preview: What advice would you give someone who wants to st...
+Overall Polarity: 0.280567
+Average Word Polarity: 0.303693
+
+WORD STATISTICS:
+  Total words analyzed: 76
+  Positive words: 49 (64.5%)
+  Negative words: 3 (3.9%)
+  Neutral words: 6 (7.9%)
+
+MOST POSITIVE WORDS:
+  definitely (ADV): 0.704506
+  daily (ADJ): 0.604890
+  comfortable (ADJ): 0.578264
+  create (VERB): 0.572424
+  present (ADJ): 0.566907
+
+MOST NEGATIVE WORDS:
+  protest (NOUN): -0.599022
+  say (VERB): -0.111846
+  slowly (ADV): -0.106827
+
+============================================================
+
+PARAGRAPH 12: POSITIVE
+Preview: Lastly, is there anything else you’d like to share...
+Overall Polarity: 0.328505
+Average Word Polarity: 0.286923
+
+WORD STATISTICS:
+  Total words analyzed: 9
+  Positive words: 5 (55.6%)
+  Negative words: 0 (0.0%)
+  Neutral words: 3 (33.3%)
+
+MOST POSITIVE WORDS:
+  thank (VERB): 0.628895
+  share (VERB): 0.481605
+  think (VERB): 0.459294
+  touch (VERB): 0.396773
+  like (VERB): 0.392957
+
+============================================================
+

@@ -1,0 +1,149 @@
+paragraph	polarity	classification	preview
+1	-0.151851	NEGATIVE	Olá, podes-te apresentar brevemente? Dizer qual é ...
+Full text: Olá, podes-te apresentar brevemente?
+Dizer qual é o teu nome, idade, onde moras e o que é que estás a fazer agora?
+Olá, eu sou a Teresa Amorim, tenho 26 anos e neste momento estou a viver no Porto.
+Sou oficial de Justiça, estou a trabalhar no Tribunal de Matosinhos, na secção especializada em violência doméstica.
+--------------------------------------------------
+2	0.069613	NEUTRAL	Esta entrevista vai-se focar, basicamente, na tua ...
+Full text: Esta entrevista vai-se focar, basicamente, na tua relação com o ativismo.
+Sendo assim, quando e como é que começou o teu envolvimento com o ativismo?
+O ativismo eu comecei a estar mais envolvida quando entrei na universidade, por volta de 2016.
+No primeiro ano da universidade, eu estava um bocado deprimida, um bocado desencantada com tudo que eu entrei em direito, mas não gostei muito.
+Só quando mudei para a criminologia, em 2017, é que eu comecei a abrir-me mais e a ter mais espaço mental para me dedicar a outras coisas que não só a universidade em si.
+Foi nessa altura que se formou uma lista de oposição para as eleições, para a associação académica da Universidade do Minho.
+Foi assim que acabei por conhecer pessoas que também gostavam de ativismo, também gostavam de participar em manifestações e que estavam ligadas também à política.
+Uma coisa puxou a outra e a primeira ação em que me envolvi mais a sério foi na organização da Greve Feminista Internacional, em Braga, no 8 de março e, a partir daí, estive em tudo.
+Nesse mesmo ano, isto foi 2018, 2019, começaram a acontecer mais manifestações em Braga.
+Comecei depois a participar também na Fridays for future e na Greve Climática Estudantil.
+Depois também na parte do movimento LGBT, eu também comecei a perceber que era uma pessoa queer, então uma coisa puxou a outra e quando dei por mim já estava envolvida um bocadinho em tudo aquilo que existia em Braga, tudo a ver com o ativismo.
+--------------------------------------------------
+3	0.250251	POSITIVE	A tua família ou amigos influenciaram esta decisão...
+Full text: A tua família ou amigos influenciaram esta decisão de te envolveres no ativismo?
+Na altura, a nível de amizades, que eu estava mais com o pessoal do meu curso, não havia assim ninguém que quisesse também envolver-se em ativismo, então acabava por estar um bocadinho sozinha nisso.
+Por isso, amizades nem por isso, depois comecei a construir mais amizades dentro do ativismo, mas à altura não havia ninguém antes de envolver-me que estivesse a apoiar.
+A nível de família, principalmente o meu pai, apoiou bastante.
+Ele gostava de ver que eu estava a dedicar-me mais às coisas e a abrir-me mais também, porque ao estares no ativismo isso abre-te a mente a diferentes perspetivas na tua vida.
+Criou também outros grupos e outro envolvimento que antes eu não tinha, pois era uma pessoa muito mais recatada, muito mais no meu sítio.
+O ativismo também trouxe essa mudança no fundo.
+--------------------------------------------------
+4	0.093609	NEUTRAL	Relativamente, agora, às organizações e às causas,...
+Full text: Relativamente, agora, às organizações e às causas, a que organizações ou movimentos pertences atualmente?
+Agora com esta mudança de ter mudado de cidade, em termos de ativismo não estou a conseguir envolver-me tanto como estava até agora, mas neste momento, assim, mais no ativo, estou na UMAR (União Mulheres Alternativa e Resposta), estou também na Rede 8 de Março, no Braga Fora do Armário, também estou no grupo da Ação Conjunta Antirracista e na Academia Pela Palestina.
+Em relação à Academia pela Palestina, neste momento não estamos muito no ativo, mas continuamos a organizarmos e ajudamos a organizar as vigílias semanais pela Palestina.
+Acho que é maioritariamente isso, acho que são os grupos em que eu estou mais ativa neste momento.
+--------------------------------------------------
+5	0.067561	NEUTRAL	E como é que vieste a ter conhecimento destas asso...
+Full text: E como é que vieste a ter conhecimento destas associações?
+Porquê é que elas são importantes para ti?
+Consegues falar um bocadinho sobre isso?
+O conhecimento, lá está, na altura foi através das pessoas com quem eu estava envolvida nas coisas mais da universidade, tentar fazer manifestações, fazer coisas acontecerem a partir da Universidade do Minho.
+Nessa altura, muitos dos coletivos ainda não estavam propriamente formados em Braga.
+Então, aquela vontade de um grupo específico querer fazer coisas em Braga, fez com que essa rede aumentasse, como é o caso da Rede 8 de Março, que acabamos por criar um núcleo cá em Braga.
+Relativamente às outras, a UMAR, por exemplo, foi das primeiras organizações em que me envolvi e a que me liguei, foi também através da Rede 8 de Março.
+Ou seja, o pessoal do ativismo em Braga é tudo mais do mesmo, são quase as mesmas pessoas a revezarem-se pelos vários grupos.
+É de boca em boca que se vão conhecendo os grupos e os grupos vão sendo criados.
+A maioria dos grupos - tirando Braga Fora do Armário, que já existia há uns valentes anos cá em Braga - como o grupo da Ação Conjunta, a Rede 8 de Março e a Greve Climática Estudantil, foram todos grupos que foram surgindo organicamente entre as pessoas que queriam fazer coisas.
+E é mais fácil oficializar um bocadinho a coisa e criar um Instagram, de forma a promover os eventos e as coisas que vamos fazendo.
+Então foi um bocado por aí.
+Em termos de porque é que eu ainda continuo nesses grupos e porque é que são importantes para mim.
+Acho que é mesmo aquela questão de quando tu começas a ver as coisas, quando tu começas a ganhar a consciência das coisas e como não só tudo tem impacto em ti, mas a forma como também tem impacto diferente nas outras pessoas.
+Começas a ganhar consciência das várias camadas de opressão ou tens consciência de como é que a sociedade funciona, no fundo, começas a ficar mais politizada e acabas por não conseguir só estar no movimento e queres te envolver em todos, ou tentar pelo menos estar em várias causas.
+É isto, continua a ser importante para mim o ativismo, porque é o que me dá vontade de continuar aqui.
+Porque acho que é preciso continuar envolvida e ativa nas coisas.
+--------------------------------------------------
+6	0.316282	POSITIVE	E como é que costuma ser o teu dia-a-dia dentro de...
+Full text: E como é que costuma ser o teu dia-a-dia dentro destas causas?
+Quando é que costumas participar?
+Neste momento, em termos de participação, é mais nos grupos do WhatsApp, há vários grupos formados.
+Vou ser sincera, muitos eu não consigo acompanhar, pois o pessoal manda muitas mensagens por dia.
+Mas naquilo em que sou mesmo necessária, em que é preciso uma opinião sobre uma coisa ou estão a pensar em fazer alguma ação específica, eu tento responder na medida do possível.
+Tento também participar nas reuniões que vão existindo, seja para preparar eventos ou protestos específicos, seja só para fazer um ponto de situação do coletivo ou do grupo.
+E aos fins de semanas é quando mais me dedico ao ativismo.
+É o meu tempo livre, é um tempo que eu ainda continuo a direcionar uma parte dele para estar no ativismo e participar nos protestos e nas vigílias, também quando vou a Braga.
+É assim que eu estou neste momento.
+Também é importante falar sobre esses mesmos movimentos.
+Ou seja, mesmo estando agora num local de trabalho, quando tenho a oportunidade, vou falando também sobre os coletivos que existem e ver se mais alguém tem interesse.
+--------------------------------------------------
+7	0.406564	POSITIVE	Existe alguma experiência marcante que tenhas vivi...
+Full text: Existe alguma experiência marcante que tenhas vivido dentro do ativismo, que te lembres, que seja importante para ti?
+Há muitos momentos, mas, se calhar, o mais marcante, num passado recente, foi pela causa da Palestina dentro da Universidade do Minho, conheci uma pessoa que passou a ser uma amiga também, e que é uma pessoa palestiniana na Universidade do Minho.
+Eu conheci esta pessoa num protesto e ela partilhou o testemunho dela.
+Ela apareceu no protesto, porque eu estava a gerir uma das redes sociais desse coletivo, ela tinha mandado mensagem na altura a perguntar se podia participar.
+Eu disse, claro que sim!
+Não estava à espera que ela aparecesse e quisesse partilhar de uma forma tão visceral a experiência dela.
+Depois disso, continuamos a falar uma com a outra e continuamos a estreitar relações também.
+Desde que ela me conheceu, que tinha dito que queria muito oferecer-me o keffiyeh dela, o lenço palestiniano, que ela já tinha desde os quatro anos de idade.
+Este foi o lenço que ela usou em protestos, foi o lenço que ela sempre usou com a família lá na Palestina.
+E ela queria muito dar-me, porque sentia que era importante passar esse testemunho a alguém que está cá a lutar também pela causa da Palestina, da causa dela, que é literalmente uma situação de vida ou morte.
+Foi um momento muito emocionante.
+Esse foi o objeto que eu trouxe também.
+Desde há dois anos, que tenho andado todos os dias com ele para o trabalho, para os protestos.
+E ajuda também a sanar um bocadinho a saudade dessa pessoa amiga, que neste momento não está aqui.
+Está na Palestina e quer muito voltar a Portugal.
+A ver se consegue!
+--------------------------------------------------
+8	0.299292	POSITIVE	Nós vamos então passar à próxima pergunta, que é e...
+Full text: Nós vamos então passar à próxima pergunta, que é então que objeto trouxeste e qual o seu significado para ti.
+Ele está aqui.
+Agora está um bocado enroladinho, porque eu não estive a usá-lo, que hoje está muito calor.
+Mas ele tem andado sempre comigo, já é bem antiguinho e bem frágil.
+Mas, na altura a Masha tinha-me dito também para usar.
+A ideia não era ele ficar guardado em casa, ela queria muito que eu usasse.
+E eu fui-lhe mandando fotografias em protestos, sempre a mostrar que o keffiyeh andava comigo.
+Então este objeto para mim representa resistência, representa libertação e união além de fronteiras.
+E acho que é um símbolo de resistência muito importante, não só para as pessoas palestinianas, mas para todo o mundo, para todas as pessoas.
+Acho que em termos de ativismos, que lutar por tantas causas e não lutar pela libertação da Palestina, algo aí não está correto, algo não está certo.
+Além disso, esta luta pela libertação da Palestina fez-me reparar que é quase um deal-breaker dentro do ativismo.
+É aqui que as pessoas se revelam.
+Quando vem a causa da Palestina é que tu vês realmente quem é que quer a libertação de todos os povos, quem é que acredita na luta interseccional e quem é que não está nesse lado da luta.
+--------------------------------------------------
+9	-0.099014	NEUTRAL	Relativamente agora a certos desafios, já enfrenta...
+Full text: Relativamente agora a certos desafios, já enfrentaste obstáculos ou dificuldades no ativismo?
+E se sim, como é que os ultrapassaste?
+Em termos de obstáculos, acho que há dois níveis.
+Há os obstáculos da própria organização em si, ou seja, em termos da organização.
+Tenta-se que seja sempre uma organização horizontal, ou seja, todas as pessoas falam, todas as pessoas dão a sua opinião, toda a gente tenta gerir de uma forma autónoma, por assim dizer, autogerir o movimento.
+Os desafios que isto traz consigo, que acarreta, é mesmo as diferentes personalidades, os diferentes pontos de vista, as próprias diferenças de idades, ou seja, às vezes, entre os coletivos também há choque geracional. Às vezes, é complicado gerir estas emoções todas, para irmos numa direção comum.
+Por isso, por vezes, as reuniões são muito desgastantes, principalmente quando estamos a tentar construir o manifesto ou quando estamos a tentar construir uma ideia que queremos apresentar.
+Acho que desgasta também emocionalmente e psicologicamente o pessoal, o que leva ao burnout, derivado do ativismo, que é algo bastante real.
+E há muitas pessoas amigas que tiveram de se afastar durante uns tempos dos ativismos por causa disso.
+Então diria que este é um dos desafios, é conseguirmos lidar connosco como ativistas, mas também com as outras pessoas, companheiras, com quem estamos a tentar construir algo e pensar num futuro melhor.
+Em termos de fatores externos, acho que é mesmo aquele confronto direto.
+Um exemplo concreto que me vem à cabeça foi uma contramanifestação que fizemos em Guimarães.
+Houve uma manifestação do grupo fascista “1143” e foi daqueles momentos em que te sentes mesmo desamparada.
+Onde tens agentes policiais a apontar a arma para nós, para pessoas ativistas que estavam ali na paz, só a tocar música, a cantar a “Grândola Vila Morena”, mas é para nós que se viram.
+Isso foi um choque de realidade bastante forte.
+Por isso acho que ser ativista, na fase em que estamos, é mais importante que nunca.
+E estamos numa época de viragem.
+É mesmo importante estarmos unidas e quantas mais formos, mais força temos contra estas pessoas.
+--------------------------------------------------
+10	-0.147725	NEGATIVE	Como é que tu vês o futuro destas causas? É assim,...
+Full text: Como é que tu vês o futuro destas causas?
+É assim, eu gosto de pensar que às vezes sou um bocadinho utópica.
+Sou bastante pessimista, não diria pessimista, pessimista, mas realista.
+Quando toca ao ativismo eu gostava de pensar que daqui por uns anos, ou num futuro muito próximo, fosse cada vez mais unânime que o ativismo é essencial para evoluirmos como sociedade, evoluirmos como pessoas e conseguirmos construir, ou imaginar, um futuro diferente daquilo que nos é apresentado hoje em dia.
+Então, eu quero acreditar que, como fizemos um 25 de Abril, ou como fizemos outras revoluções, um pouco por todo o mundo, que se calhar é a partir desta união coletiva, desta união popular, desta resistência, que vamos conseguir virar as coisas.
+E eu quero acreditar que ser ativista daqui por uns tempos seja algo que toda a gente consiga rever-se, e consiga dizer com orgulho que é ativista.
+E não ativista naquela conceptualização, que acho que muita gente tem, que são pessoas desocupadas, pessoas que não trabalham, pessoas que são meias hippies e que só querem viver numa sociedade assim meia distópica, quando na verdade, não.
+As pessoas ativistas trabalham, as pessoas ativistas têm vidas próprias, têm famílias, têm dinâmicas relacionais com qualquer outra pessoa e acho que é de louvar também tirarem um bocado do seu tempo para se dedicarem a isto.
+Gostava que mais gente se sentisse…não é bem na obrigação, mas tivessem também vontade de se juntar, principalmente em celebrações como o 25 de Abril, que acho que devia haver ainda mais gente a participar.
+--------------------------------------------------
+11	0.383310	POSITIVE	E que conselho darias a alguém que quer começar a ...
+Full text: E que conselho darias a alguém que quer começar a participar no ativismo?
+Acho que o meu maior conselho, por experiência própria, é mesmo tentar perceber dentro dos circuitos diários que fazes essas conexões.
+Ou seja, se vives numa cidade - vamos dizer o Porto, por exemplo - estar atento às redes sociais ou também àqueles lugares que dá para perceber que são frequentados por pessoas ligadas ao ativismo.
+Por exemplo, saber que vai haver um debate sobre a Palestina num café específico.
+Se estivemos confortáveis com isso, é tentar aparecer nesses sítios, porque muitas vezes é o estarmos in loco nas atividades, que conseguimos conhecer pessoas, perceber quem é que está na organização dos coletivos ou dos protestos, das atividades, das assembleias populares, ou o que quer que seja.
+Pelo menos a minha experiência, é mesmo no contacto presencial que conseguimos conhecer as pessoas e que começamos a envolver-nos, devagarinho, nas atividades.
+E, lá está, se estivermos a estudar numa universidade, certamente lá também há coletivos e pessoas a tentar organizar coisas.
+Por isso, acho que é um bocadinho por aí: tentar, dentro das nossas comunidades, dos sítios mais próximos de nós, construir outras comunidades ou construir outros movimentos.
+Acho que essa é a minha recomendação.
+--------------------------------------------------
+12	0.145030	POSITIVE	Agora para encerrar, não sei se existe, se há algo...
+Full text: Agora para encerrar, não sei se existe, se há algo mais que gostarias de partilhar, que não tínhamos abordado, ou assim?
+Acho que não, acho que falei um bocadinho de tudo.
+Acho que conseguimos ir aos pontinhos todos.
+Acabamos, então, por aqui.
+Obrigada!
+--------------------------------------------------

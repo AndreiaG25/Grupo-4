@@ -1,0 +1,2612 @@
+Olá	INTJ	Olá	ROOT	1457
+podes-te	VERB	podes-te	nsubj	18446744073709551615
+apresentar	VERB	apresentar	acl	1023
+brevemente	ADV	brevemente	advmod	12558
+
+Dizer	VERB	dizer	case	20018
+qual	PRON	qual	obl	123
+é	AUX	ser	cop	14
+o	DET	o	det	6
+teu	DET	teu	det	1759
+nome	NOUN	nome	nsubj	211
+idade	NOUN	idade	appos	646
+onde	PRON	onde	det	92
+moras	NOUN	mora	conj	133125
+e	CCONJ	e	cc	4
+o	PRON	o	conj	6
+que	PRON	que	dep	7
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+estás	VERB	estás	ROOT	11004
+a	SCONJ	a	mark	5
+fazer	VERB	fazer	xcomp	82
+agora	ADV	agora	advmod	193
+
+Olá	NOUN	Olá	obl	1457
+eu	PRON	eu	nsubj	63
+sou	AUX	ser	cop	525
+a	DET	o	det	5
+Teresa Amorim	PROPN	PER	nsubj	500000
+tenho	VERB	ter	ROOT	301
+26	NUM	26	nummod	1079
+anos	NOUN	ano	obj	64
+e	CCONJ	e	cc	4
+neste	ADP	em este	case	280
+momento	NOUN	momento	obl	201
+estou	VERB	estar	conj	381
+a	SCONJ	a	mark	5
+viver	VERB	viver	xcomp	976
+no	ADP	em o	case	16
+Porto	PROPN	LOC	obl	668
+
+Sou	AUX	ser	cop	1829
+oficial	ADJ	oficial	obl	851
+de	ADP	de	case	2
+Justiça	NOUN	LOC	nmod	721
+estou	VERB	estar	ROOT	381
+a	SCONJ	a	mark	5
+trabalhar	VERB	trabalhar	xcomp	698
+no	ADP	em o	case	16
+Tribunal de Matosinhos	PROPN	LOC	obl	500001
+na	ADP	em o	case	20
+secção	NOUN	secção	obl	9254
+especializada	VERB	especializar	acl	3007
+em	ADP	em	case	10
+violência	NOUN	violência	obl	1357
+doméstica	ADJ	doméstico	amod	7381
+
+Esta	DET	este	det	405
+entrevista	NOUN	entrevista	nsubj	1267
+vai-se	PRON	vai-se	aux	29032
+focar	VERB	focar	ROOT	8567
+basicamente	ADV	basicamente	advmod	3918
+na	ADP	em o	case	20
+tua	DET	tuo	det	1433
+relação	NOUN	relação	obl	249
+com	ADP	com	case	12
+o	DET	o	det	6
+ativismo	NOUN	ativismo	nmod	24096
+
+Sendo	VERB	ser	cc	2768
+assim	ADV	assim	fixed	117
+quando	ADV	quando	advmod	71
+e	CCONJ	e	cc	4
+como	ADV	como	advmod	29
+é	AUX	ser	discourse	14
+que	SCONJ	que	mark	7
+começou	VERB	começar	ROOT	630
+o	DET	o	det	6
+teu	DET	teu	det	1759
+envolvimento	NOUN	envolvimento	obj	4510
+com	ADP	com	case	12
+o	DET	o	det	6
+ativismo	NOUN	ativismo	nmod	24096
+
+O	DET	o	det	28
+ativismo	NOUN	ativismo	nsubj	24096
+eu	PRON	eu	nsubj	63
+comecei	VERB	começar	ROOT	2960
+a	SCONJ	a	mark	5
+estar	AUX	estar	cop	238
+mais	ADV	mais	advmod	25
+envolvida	VERB	envolver	xcomp	9207
+quando	SCONJ	quando	mark	71
+entrei	VERB	entrar	advcl	8616
+na	ADP	em o	case	20
+universidade	NOUN	universidade	obl	2894
+por	ADP	por	case	22
+volta	NOUN	volta	obl	373
+de	ADP	de	case	2
+2016	NUM	2016	nmod	462
+
+No	ADP	em o	case	91
+primeiro	ADJ	primeiro	amod	153
+ano	NOUN	ano	nmod	93
+da	ADP	de o	case	9
+universidade	NOUN	universidade	nmod	2894
+eu	PRON	eu	nsubj	63
+estava	AUX	estar	cop	169
+um	DET	um	det	13
+bocado	NOUN	bocado	ROOT	11939
+deprimida	ADJ	deprimido	amod	41599
+um	DET	um	det	13
+bocado	NOUN	bocado	appos	11939
+desencantada	VERB	desencantar	acl	166068
+com	ADP	com	case	12
+tudo	PRON	tudo	obl	109
+que	PRON	que	obj	7
+eu	PRON	eu	nsubj	63
+entrei	VERB	entrar	acl:relcl	8616
+em	ADP	em	case	10
+direito	NOUN	direito	obl	285
+mas	CCONJ	mas	cc	44
+não	ADV	não	advmod	21
+gostei	VERB	gostar	conj	2389
+muito	ADV	muito	advmod	50
+
+Só	ADV	só	advmod	876
+quando	SCONJ	quando	mark	71
+mudei	VERB	mudar	advcl	14883
+para	ADP	para	case	11
+a	DET	o	det	5
+criminologia	NOUN	criminologia	obl	62435
+em	ADP	em	case	10
+2017	NUM	2017	obl	423
+é	VERB	ser	ROOT	14
+que	SCONJ	que	mark	7
+eu	PRON	eu	nsubj	63
+comecei	VERB	começar	ccomp	2960
+a	SCONJ	a	mark	5
+abrir-me	VERB	abrir-me	xcomp	298411
+mais	ADV	mais	advmod	25
+e	CCONJ	e	cc	4
+a	SCONJ	a	mark	5
+ter	VERB	ter	conj	80
+mais	DET	mais	det	25
+espaço	NOUN	espaço	obj	313
+mental	ADJ	mental	amod	2837
+para	SCONJ	para	mark	11
+me	PRON	eu	obj	86
+dedicar	VERB	dedicar	advcl	6782
+a	ADP	a	case	5
+outras	DET	outro	det	158
+coisas	NOUN	coisa	obj	269
+que	PRON	que	nsubj	7
+não	ADV	não	advmod	21
+só	ADV	só	advmod	96
+a	DET	o	det	5
+universidade	NOUN	universidade	acl:relcl	2894
+em	ADP	em	case	10
+si	PRON	se	nmod	551
+
+Foi	SCONJ	foi	mark	344
+nessa	ADP	em esse	case	833
+altura	NOUN	altura	obl	989
+que	PRON	que	nsubj	7
+se	PRON	se	expl	24
+formou	VERB	formar	ROOT	8245
+uma	DET	um	det	15
+lista	NOUN	lista	obj	642
+de	ADP	de	case	2
+oposição	NOUN	oposição	nmod	2723
+para	ADP	para	case	11
+as	DET	o	det	23
+eleições	NOUN	eleição	nmod	1468
+para	ADP	para	case	11
+a	DET	o	det	5
+associação	NOUN	associação	obl	2653
+académica	ADJ	académico	amod	24046
+da	ADP	de o	case	9
+Universidade do Minho	PROPN	LOC	nmod	500002
+
+Foi	SCONJ	foi	ROOT	344
+assim	ADV	assim	advmod	117
+que	SCONJ	que	mark	7
+acabei	VERB	acabar	ccomp	4788
+por	SCONJ	por	mark	22
+conhecer	VERB	conhecer	xcomp	636
+pessoas	NOUN	pessoa	obj	87
+que	PRON	que	nsubj	7
+também	ADV	também	advmod	48
+gostavam	VERB	gostar	acl:relcl	28717
+de	ADP	de	case	2
+ativismo	NOUN	ativismo	obj	24096
+também	ADV	também	advmod	48
+gostavam	VERB	gostar	conj	28717
+de	SCONJ	de	mark	2
+participar	VERB	participar	xcomp	953
+em	ADP	em	case	10
+manifestações	NOUN	manifestação	obl	3513
+e	CCONJ	e	cc	4
+que	PRON	que	nsubj	7
+estavam	AUX	estar	cop	789
+ligadas	VERB	ligar	conj	5148
+também	ADV	também	advmod	48
+à	ADP	a o	case	43
+política	NOUN	política	obl	416
+
+Uma	DET	um	det	209
+coisa	NOUN	coisa	nsubj	267
+puxou	VERB	puxar	ROOT	20457
+a	ADP	a	case	5
+outra	PRON	outro	obj	253
+e	CCONJ	e	cc	4
+a	DET	o	det	5
+primeira	ADJ	primeiro	amod	166
+ação	NOUN	ação	conj	419
+em	ADP	em	case	10
+que	PRON	que	obl	7
+me	PRON	eu	iobj	86
+envolvi	VERB	envolvi	acl:relcl	64970
+mais	ADV	mais	advmod	25
+a	ADP	a	case	5
+sério	NOUN	sério	obj	2784
+foi	VERB	ser	cop	35
+na	ADP	em o	case	20
+organização da Greve Feminista Internacional	NOUN	ORG	obj	500003
+em	ADP	em	case	10
+Braga	PROPN	LOC	nmod	3847
+no	ADP	em o	case	16
+8	NUM	8	obl	483
+de	ADP	de	case	2
+março	NOUN	março	nmod	790
+e	CCONJ	e	cc	4
+a	ADP	a	case	5
+partir	VERB	partir	advcl	194
+daí	ADV	de aí	advmod	2588
+estive	VERB	estive	cop	7143
+em	ADP	em	case	10
+tudo	PRON	tudo	conj	109
+
+Nesse	ADP	em esse	case	1231
+mesmo	ADJ	mesmo	amod	66
+ano	NOUN	ano	obl	93
+isto	PRON	isto	nsubj	534
+foi	AUX	ser	aux:pass	35
+2018	NUM	2018	advcl	354
+2019	NUM	2019	acl	2216
+começaram	VERB	começar	ROOT	2439
+a	SCONJ	a	mark	5
+acontecer	VERB	acontecer	xcomp	1427
+mais	DET	mais	det	25
+manifestações	NOUN	manifestação	obj	3513
+em	ADP	em	case	10
+Braga	PROPN	LOC	nmod	3847
+
+Comecei	VERB	Comecei	ROOT	9498
+depois	ADV	depois	advmod	136
+a	SCONJ	a	mark	5
+participar	VERB	participar	xcomp	953
+também	ADV	também	advmod	48
+na	ADP	em o	case	20
+Fridays for future	ADJ	ORG	conj	500004
+e	CCONJ	e	cc	4
+na	ADP	em o	case	20
+Greve Climática Estudantil	PROPN	ORG	conj	500005
+
+Depois	ADV	depois	advmod	406
+também	ADV	também	advmod	48
+na	ADP	em o	case	20
+parte	NOUN	parte	obl	112
+do	ADP	de o	case	8
+movimento	NOUN	movimento	nmod	768
+LGBT	ADJ	LGBT	amod	10865
+eu	PRON	eu	nsubj	63
+também	ADV	também	advmod	48
+comecei	VERB	começar	ROOT	2960
+a	SCONJ	a	mark	5
+perceber	VERB	perceber	xcomp	1807
+que	SCONJ	que	mark	7
+era	AUX	ser	cop	95
+uma	DET	um	det	15
+pessoa	NOUN	pessoa	ccomp	244
+queer	ADJ	queer	amod	56339
+então	ADV	então	advmod	196
+uma	DET	um	det	15
+coisa	NOUN	coisa	nsubj	267
+puxou	VERB	puxar	acl:relcl	20457
+a	ADP	a	case	5
+outra	PRON	outro	obj	253
+e	CCONJ	e	cc	4
+quando	ADV	quando	advmod	71
+dei	VERB	dar	conj	4447
+por	ADP	por	case	22
+mim	PRON	eu	obl	380
+já	ADV	já	advmod	57
+estava	AUX	estar	cop	169
+envolvida	ADJ	envolvido	xcomp	9207
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	nsubj	13872
+em	ADP	em	case	10
+tudo	PRON	tudo	det	109
+aquilo	PRON	aquilo	obl	1238
+que	PRON	que	nsubj	7
+existia	VERB	existir	acl:relcl	5865
+em	ADP	em	case	10
+Braga	PROPN	LOC	obl	3847
+tudo	PRON	tudo	appos	109
+a	SCONJ	a	mark	5
+ver	VERB	ver	advcl	197
+com	ADP	com	case	12
+o	DET	o	det	6
+ativismo	NOUN	ativismo	obl	24096
+
+A	DET	o	det	31
+tua	DET	tuo	det	1433
+família	NOUN	família	nsubj	263
+ou	CCONJ	ou	cc	33
+amigos	NOUN	amigo	conj	481
+influenciaram	VERB	influenciar	ROOT	26539
+esta	DET	este	det	147
+decisão	NOUN	decisão	obj	596
+de	ADP	de	case	2
+te	PRON	te	det	398
+envolveres	NOUN	envolver	nmod	18446744073709551615
+no	ADP	em o	case	16
+ativismo	NOUN	ativismo	obl	24096
+
+Na	ADP	em o	case	145
+altura	NOUN	altura	obl	989
+a	ADP	a	case	5
+nível	NOUN	nível	nmod	418
+de	ADP	de	case	2
+amizades	NOUN	amizade	nmod	8685
+que	PRON	que	nsubj	7
+eu	PRON	eu	nsubj	63
+estava	AUX	estar	cop	169
+mais	ADV	mais	advmod	25
+com	ADP	com	case	12
+o	DET	o	det	6
+pessoal	NOUN	pessoal	acl:relcl	607
+do	ADP	de o	case	8
+meu	DET	meu	det	137
+curso	NOUN	curso	nmod	359
+não	ADV	não	advmod	21
+havia	VERB	haver	ROOT	395
+assim	ADV	assim	advmod	117
+ninguém	PRON	ninguém	obj	786
+que	PRON	que	nsubj	7
+quisesse	VERB	quiser	acl:relcl	11033
+também	ADV	também	advmod	48
+envolver-se	VERB	envolver se	xcomp	49559
+em	ADP	em	case	10
+ativismo	NOUN	ativismo	obl	24096
+então	ADV	então	advmod	196
+acabava	VERB	acabar	ccomp	18557
+por	SCONJ	por	mark	22
+estar	AUX	estar	cop	238
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	xcomp	13872
+sozinha	ADJ	sozinho	amod	4299
+nisso	PRON	em isso	obl	2943
+
+Por	ADP	por	case	156
+isso	PRON	isso	nmod	70
+amizades	NOUN	amizade	advcl	8685
+nem	ADV	nem	cc	180
+por	ADP	por	case	22
+isso	PRON	isso	conj	70
+depois	ADV	depois	advmod	136
+comecei	VERB	começar	ROOT	2960
+a	SCONJ	a	mark	5
+construir	VERB	construir	xcomp	1859
+mais	DET	mais	det	25
+amizades	NOUN	amizade	obj	8685
+dentro	ADV	dentro	advmod	234
+do	ADP	de o	case	8
+ativismo	NOUN	ativismo	obl	24096
+mas	CCONJ	mas	cc	44
+à	ADP	a o	case	43
+altura	NOUN	altura	obl	989
+não	ADV	não	advmod	21
+havia	VERB	haver	conj	395
+ninguém	PRON	ninguém	obj	786
+antes	ADV	antes	mark	181
+de	ADP	de	fixed	2
+envolver-me	VERB	envolver-me	advcl	219824
+que	SCONJ	que	mark	7
+estivesse	VERB	estar	ccomp	3649
+a	SCONJ	a	mark	5
+apoiar	VERB	apoiar	xcomp	3589
+
+A	ADP	a	case	31
+nível	NOUN	nível	obl	418
+de	ADP	de	case	2
+família	NOUN	família	nmod	263
+principalmente	ADV	principalmente	advmod	442
+o	DET	o	det	6
+meu	DET	meu	det	137
+pai	NOUN	pai	nsubj	552
+apoiou	VERB	apoiar	ROOT	13442
+bastante	ADV	bastante	advmod	393
+
+Ele	PRON	ele	nsubj	191
+gostava	VERB	gostar	ROOT	5149
+de	SCONJ	de	mark	2
+ver	VERB	ver	xcomp	197
+que	SCONJ	que	mark	7
+eu	PRON	eu	nsubj	63
+estava	VERB	estar	ccomp	169
+a	SCONJ	a	mark	5
+dedicar-me	VERB	dedicar-me	xcomp	88988
+mais	ADV	mais	advmod	25
+às	ADP	a o	case	105
+coisas	NOUN	coisa	obl	269
+e	CCONJ	e	cc	4
+a	SCONJ	a	mark	5
+abrir-me	VERB	abrir-me	conj	298411
+mais	ADV	mais	advmod	25
+também	ADV	também	advmod	48
+porque	SCONJ	porque	mark	128
+ao	ADP	a o	case	32
+estares	NOUN	estar	obl	61234
+no	ADP	em o	case	16
+ativismo	NOUN	ativismo	nmod	24096
+isso	PRON	isso	nsubj	70
+abre-te	VERB	abre-teir	advcl	273100
+a	DET	o	det	5
+mente	NOUN	mente	obj	1259
+a	ADP	a	case	5
+diferentes	DET	diferentes	det	336
+perspetivas	NOUN	perspetiva	obl	41747
+na	ADP	em o	case	20
+tua	DET	tuo	det	1433
+vida	NOUN	vida	nmod	90
+
+Criou	VERB	criar	ROOT	31945
+também	ADV	também	advmod	48
+outros	DET	outro	det	107
+grupos	NOUN	grupo	obj	846
+e	CCONJ	e	cc	4
+outro	DET	outro	det	167
+envolvimento	NOUN	envolvimento	conj	4510
+que	PRON	que	mark	7
+antes	ADV	antes	advmod	181
+eu	PRON	eu	nsubj	63
+não	ADV	não	advmod	21
+tinha	VERB	ter	acl:relcl	203
+pois	SCONJ	pois	mark	143
+era	AUX	ser	cop	95
+uma	DET	um	det	15
+pessoa	NOUN	pessoa	advcl	244
+muito	ADV	muito	advmod	50
+mais	ADV	mais	advmod	25
+recatada	ADJ	recatado	acl	74772
+muito	ADV	muito	advmod	50
+mais	ADV	mais	advmod	25
+no	ADP	em o	case	16
+meu	DET	meu	det	137
+sítio	NOUN	sítio	nmod	4033
+
+O	DET	o	det	28
+ativismo	NOUN	ativismo	nsubj	24096
+também	ADV	também	advmod	48
+trouxe	VERB	trazer	ROOT	2621
+essa	DET	esse	det	141
+mudança	NOUN	mudança	obj	922
+no	ADP	em o	case	16
+fundo	NOUN	fundo	obl	982
+
+Relativamente	ADV	relativamente	advmod	20985
+agora	ADV	agora	advmod	193
+às	ADP	a o	case	105
+organizações	NOUN	organização	obl	1962
+e	CCONJ	e	cc	4
+às	ADP	a o	case	105
+causas	NOUN	causa	conj	2842
+a	ADP	o	det	5
+que	DET	que	fixed	7
+organizações	NOUN	organização	nsubj	1962
+ou	CCONJ	ou	cc	33
+movimentos	NOUN	movimento	conj	1730
+pertences	NOUN	pertence	ROOT	16382
+atualmente	ADV	atualmente	advmod	1260
+
+Agora	ADV	agora	advmod	691
+com	ADP	com	case	12
+esta	DET	este	det	147
+mudança	NOUN	mudança	obl	922
+de	SCONJ	de	mark	2
+ter	AUX	ter	aux	80
+mudado	VERB	mudar	acl	10978
+de	ADP	de	case	2
+cidade	NOUN	cidade	obl	138
+em	ADP	em	case	10
+termos	NOUN	termos	obl	719
+de	ADP	de	case	2
+ativismo	NOUN	ativismo	nmod	24096
+não	ADV	não	advmod	21
+estou	VERB	estar	parataxis	381
+a	SCONJ	a	mark	5
+conseguir	VERB	conseguir	xcomp	850
+envolver-me	VERB	envolver-me	xcomp	219824
+tanto	ADV	tanto	cc	272
+como	ADV	como	fixed	29
+estava	VERB	estar	conj	169
+até	ADP	até	case	59
+agora	ADV	agora	advmod	193
+mas	CCONJ	mas	cc	44
+neste	ADP	em este	case	280
+momento	NOUN	momento	conj	201
+assim	ADV	assim	advmod	117
+mais	ADV	mais	advmod	25
+no	ADP	em o	case	16
+ativo	NOUN	ativo	nmod	3488
+estou	AUX	estar	conj	381
+na	ADP	em o	case	20
+UMAR	PROPN	ORG	obl	105951
+União Mulheres Alternativa e Resposta	PROPN	ORG	appos	500006
+estou	AUX	estar	ROOT	381
+também	ADV	também	advmod	48
+na	ADP	em o	case	20
+Rede 8 de Março	PROPN	ORG	nsubj	500007
+no	ADP	em o	case	16
+Braga	PROPN	ORG	obl	3847
+
+Fora	PROPN	fora	ROOT	4314
+do	ADP	de o	case	8
+Armário	NOUN	Armário	nmod	38754
+também	ADV	também	advmod	48
+estou	AUX	estar	cop	381
+no	ADP	em o	case	16
+grupo	NOUN	grupo	obl	248
+da	ADP	de o	case	9
+Ação Conjunta Antirracista	PROPN	ORG	nmod	500008
+e	CCONJ	e	cc	4
+na	ADP	em o	case	20
+Academia Pela Palestina	PROPN	ORG	conj	500009
+
+Em	ADP	em	case	76
+relação	NOUN	relação	obl	249
+à	ADP	a o	case	43
+Academia pela Palestina	PROPN	ORG	nmod	500010
+neste	ADP	em este	case	280
+momento	NOUN	momento	obl	201
+não	ADV	não	advmod	21
+estamos	AUX	estar	ROOT	655
+muito	ADV	muito	advmod	50
+no	ADP	em o	case	16
+ativo	NOUN	ativo	xcomp	3488
+mas	CCONJ	mas	cc	44
+continuamos	VERB	continuar	conj	14926
+a	SCONJ	a	mark	5
+organizarmos	VERB	organizar	xcomp	99900
+e	CCONJ	e	cc	4
+ajudamos	VERB	ajudar	conj	29119
+a	SCONJ	a	mark	5
+organizar	VERB	organizar	xcomp	3037
+as	DET	o	det	23
+vigílias	NOUN	vigília	obj	87212
+semanais	ADJ	semanal	amod	7441
+pela	ADP	por o	case	51
+Palestina	PROPN	LOC	obl	13291
+
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+maioritariamente	ADV	maioritariamente	advmod	21920
+isso	PRON	isso	ccomp	70
+acho	VERB	achar	ccomp	697
+que	SCONJ	que	mark	7
+são	AUX	ser	cop	46
+os	DET	o	det	18
+grupos	NOUN	grupo	ccomp	846
+em	ADP	em	case	10
+que	PRON	que	obl	7
+eu	PRON	eu	nsubj	63
+estou	AUX	estar	cop	381
+mais	ADV	mais	advmod	25
+ativa	ADJ	ativo	acl:relcl	3466
+neste	ADP	em este	case	280
+momento	NOUN	momento	obl	201
+
+E	CCONJ	e	cc	79
+como	ADV	como	advmod	29
+é	AUX	ser	discourse	14
+que	SCONJ	que	mark	7
+vieste	VERB	vieste	ROOT	93423
+a	SCONJ	a	mark	5
+ter	VERB	ter	xcomp	80
+conhecimento	NOUN	conhecimento	obj	492
+destas	ADP	de este	case	2310
+associações	NOUN	associação	nmod	5068
+
+Porquê	ADV	PER	ROOT	22278
+é	AUX	ser	cop	14
+que	SCONJ	que	mark	7
+elas	PRON	ele	nsubj	488
+são	AUX	ser	cop	46
+importantes	ADJ	importante	ccomp	783
+para	ADP	para	case	11
+ti	PRON	ti	obl	3441
+
+Consegues	PROPN	PER	ROOT	139641
+falar	VERB	falar	xcomp	409
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	obj	13872
+sobre	ADP	sobre	case	55
+isso	PRON	isso	obl	70
+
+O	DET	o	det	28
+conhecimento	NOUN	conhecimento	nsubj	492
+lá	ADV	lá	advmod	258
+está	AUX	estar	acl:relcl	58
+na	ADP	em o	case	20
+altura	NOUN	altura	obl	989
+foi	AUX	ser	ROOT	35
+através	ADV	através	advmod	178
+das	ADP	de o	case	34
+pessoas	NOUN	pessoa	obl	87
+com	ADP	com	case	12
+quem	PRON	quem	obl	129
+eu	PRON	eu	nsubj	63
+estava	AUX	estar	cop	169
+envolvida	ADJ	envolvido	acl:relcl	9207
+nas	ADP	em o	case	78
+coisas	NOUN	coisa	obl	269
+mais	ADV	mais	advmod	25
+da	ADP	de o	case	9
+universidade	NOUN	universidade	nmod	2894
+tentar	VERB	tentar	advcl	969
+fazer	VERB	fazer	xcomp	82
+manifestações	NOUN	manifestação	obj	3513
+fazer	VERB	fazer	conj	82
+coisas	NOUN	coisa	obj	269
+acontecerem	VERB	acontecer	xcomp	31796
+a	ADP	a	case	5
+partir	VERB	partir	obl	194
+da	ADP	de o	case	9
+Universidade do Minho	PROPN	LOC	nmod	500002
+
+Nessa	ADP	nessa	case	3149
+altura	NOUN	altura	obl	989
+muitos	PRON	muito	nsubj:pass	252
+dos	ADP	de o	case	30
+coletivos	NOUN	coletivo	nmod	8823
+ainda	ADV	ainda	advmod	68
+não	ADV	não	advmod	21
+estavam	AUX	estar	cop	789
+propriamente	ADV	propriamente	advmod	6827
+formados	VERB	formar	ROOT	8374
+em	ADP	em	case	10
+Braga	PROPN	LOC	obl	3847
+
+Então	ADV	então	advmod	591
+aquela	DET	aquele	det	941
+vontade	NOUN	vontade	nsubj	672
+de	ADP	de	case	2
+um	DET	um	det	13
+grupo	NOUN	grupo	nmod	248
+específico	ADJ	específico	amod	2580
+querer	VERB	querer	advcl	1953
+fazer	VERB	fazer	xcomp	82
+coisas	NOUN	coisa	obj	269
+em	ADP	em	case	10
+Braga	PROPN	LOC	nmod	3847
+fez	VERB	fazer	ROOT	294
+com	SCONJ	com	mark	12
+que	SCONJ	que	mark	7
+essa	DET	esse	det	141
+rede	NOUN	rede	nsubj	487
+aumentasse	VERB	aumentar	ccomp	62620
+como	ADV	como	advmod	29
+é	AUX	ser	cop	14
+o	DET	o	det	6
+caso	NOUN	caso	advcl	148
+da	ADP	de o	case	9
+Rede 8 de Março	PROPN	ORG	nmod	500007
+que	PRON	que	nsubj	7
+acabamos	VERB	acabar	acl:relcl	11007
+por	SCONJ	por	mark	22
+criar	VERB	criar	xcomp	513
+um	DET	um	det	13
+núcleo	NOUN	núcleo	obj	4573
+cá	ADV	cá	advmod	2217
+em	ADP	em	case	10
+Braga	PROPN	LOC	obl	3847
+
+Relativamente	ADV	relativamente	advmod	20985
+às	ADP	a o	case	105
+outras	PRON	outro	obl	158
+a	DET	o	det	5
+UMAR	PROPN	ORG	obl	105951
+por	ADP	por	obl	22
+exemplo	NOUN	exemplo	fixed	228
+foi	AUX	ser	ROOT	35
+das	ADP	de o	case	34
+primeiras	ADJ	primeiro	amod	1703
+organizações	NOUN	organização	obl	1962
+em	ADP	em	case	10
+que	PRON	que	obl	7
+me	PRON	eu	obj	86
+envolvi	VERB	envolver	acl:relcl	64970
+e	CCONJ	e	cc	4
+a	ADP	a	case	5
+que	PRON	que	obj	7
+me	PRON	eu	obj	86
+liguei	VERB	liguar	conj	17602
+foi	AUX	ser	cop	35
+também	ADV	também	advmod	48
+através	ADV	através	advcl	178
+da	ADP	de o	case	9
+Rede 8 de Março	PROPN	ORG	obl	500007
+
+Ou	CCONJ	Ou	cc	978
+seja	VERB	ser	fixed	126
+o	DET	o	det	6
+pessoal	NOUN	pessoal	nsubj	607
+do	ADP	de o	case	8
+ativismo	NOUN	ativismo	nmod	24096
+em	ADP	em	case	10
+Braga	PROPN	LOC	nmod	3847
+é	AUX	ser	cop	14
+tudo	PRON	tudo	nmod	109
+mais	ADV	mais	fixed	25
+do	ADP	de o	case	8
+mesmo	NOUN	mesmo	obl	66
+são	AUX	ser	cop	46
+quase	ADV	quase	advmod	303
+as	DET	o	det	23
+mesmas	ADJ	mesmo	amod	2086
+pessoas	NOUN	pessoa	ROOT	87
+a	SCONJ	a	mark	5
+revezarem-se	VERB	revezarem se	acl	18446744073709551615
+pelos	ADP	por o	case	186
+vários	DET	vários	det	328
+grupos	NOUN	grupo	obl	846
+
+É	AUX	ser	cop	88
+de	ADP	de	case	2
+boca	NOUN	boca	nsubj:pass	1548
+em	ADP	em	case	10
+boca	NOUN	boca	nmod	1548
+que	SCONJ	que	nsubj	7
+se	PRON	se	expl	24
+vão	AUX	ir	aux	427
+conhecendo	VERB	conhecer	acl:relcl	9751
+os	DET	o	det	18
+grupos	NOUN	grupo	obj	846
+e	CCONJ	e	cc	4
+os	DET	o	det	18
+grupos	NOUN	grupo	conj	846
+vão	AUX	ir	aux	427
+sendo	AUX	ser	aux:pass	139
+criados	VERB	criar	ROOT	4345
+
+A	DET	o	det	31
+maioria	NOUN	maioria	ROOT	421
+dos	ADP	de o	case	30
+grupos	NOUN	grupo	nmod	846
+tirando	VERB	tirar	acl	6734
+Braga	PROPN	ORG	obj	3847
+
+Fora	NOUN	fora	amod	4314
+do	ADP	de o	case	8
+Armário	NOUN	Armário	obl	38754
+que	PRON	que	nsubj	7
+já	ADV	já	advmod	57
+existia	VERB	existir	acl:relcl	5865
+há	VERB	haver	xcomp	114
+uns	DET	um	det	860
+valentes	ADJ	valente	amod	40524
+anos	NOUN	ano	obj	64
+cá	ADV	cá	advmod	2217
+em	ADP	em	case	10
+Braga	PROPN	LOC	obl	3847
+como	ADP	como	case	29
+o	DET	o	det	6
+grupo	NOUN	grupo	dep	248
+da	ADP	de o	case	9
+Ação Conjunta	PROPN	ORG	nmod	500011
+a	DET	o	det	5
+Rede 8 de Março e a	PROPN	ORG	appos	500012
+Greve Climática Estudantil	PROPN	ORG	conj	500005
+foram	AUX	ser	cop	110
+todos	DET	todo	det	75
+grupos	NOUN	grupo	ROOT	846
+que	PRON	que	nsubj:pass	7
+foram	AUX	ser	aux	110
+surgindo	VERB	surgir	acl:relcl	12190
+organicamente	ADV	organicamente	advmod	63631
+entre	ADP	entre	case	65
+as	DET	o	det	23
+pessoas	NOUN	pessoa	obl	87
+que	PRON	que	nsubj	7
+queriam	VERB	querer	acl:relcl	6922
+fazer	VERB	fazer	xcomp	82
+coisas	NOUN	coisa	obj	269
+
+E	CCONJ	e	cc	79
+é	AUX	ser	cop	14
+mais	ADV	mais	advmod	25
+fácil	ADJ	fácil	ROOT	503
+oficializar	VERB	oficializar	csubj	36680
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	obj	13872
+a	DET	o	det	5
+coisa	NOUN	coisa	obj	267
+e	CCONJ	e	cc	4
+criar	VERB	criar	conj	513
+um	DET	um	det	13
+Instagram	PROPN	PER	obj	3264
+de	ADP	de	case	2
+forma	NOUN	forma	obl	94
+a	SCONJ	a	mark	5
+promover	VERB	promover	acl	1511
+os	DET	o	det	18
+eventos	NOUN	evento	obj	879
+e	CCONJ	e	cc	4
+as	DET	o	det	23
+coisas	NOUN	coisa	conj	269
+que	PRON	que	nsubj	7
+vamos	AUX	ir	aux	692
+fazendo	VERB	fazer	acl:relcl	490
+
+Então	ADV	então	advmod	591
+foi	AUX	ser	cop	35
+um	DET	um	det	13
+bocado	NOUN	bocado	ROOT	11939
+por	ADP	por	case	22
+aí	ADV	aí	advmod	669
+
+Em	ADP	em	case	76
+termos	NOUN	termos	ROOT	719
+de	SCONJ	de	compound	2
+porque	SCONJ	porque	mark	128
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+eu	PRON	eu	nsubj	63
+ainda	ADV	ainda	advmod	68
+continuo	VERB	continuar	acl:relcl	9473
+nesses	ADP	em esse	case	3355
+grupos	NOUN	grupo	obl	846
+e	CCONJ	e	cc	4
+porque	SCONJ	porque	mark	128
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+são	AUX	ser	cop	46
+importantes	ADJ	importante	conj	783
+para	ADP	para	case	11
+mim	PRON	eu	obl	380
+
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+mesmo	ADV	mesmo	advmod	66
+aquela	DET	aquele	det	941
+questão	NOUN	questão	nsubj	520
+de	SCONJ	de	mark	2
+quando	ADV	quando	advmod	71
+tu	PROPN	tu	nmod	2642
+começas	VERB	começas	ccomp	93739
+a	SCONJ	a	mark	5
+ver	VERB	ver	xcomp	197
+as	DET	o	det	23
+coisas	NOUN	coisa	obj	269
+quando	ADV	quando	advmod	71
+tu	PROPN	tu	nsubj	2642
+começas	VERB	começas	advcl	93739
+a	SCONJ	a	mark	5
+ganhar	VERB	ganhar	xcomp	1060
+a	DET	o	det	5
+consciência	NOUN	consciência	obj	1571
+das	ADP	de o	case	34
+coisas	NOUN	coisa	nmod	269
+e	CCONJ	e	cc	4
+como	ADV	como	advmod	29
+não	ADV	não	fixed	21
+só	ADV	só	fixed	96
+tudo	PRON	tudo	nsubj	109
+tem	VERB	ter	conj	52
+impacto	NOUN	impacto	obj	1565
+em	ADP	em	case	10
+ti	PRON	ti	nmod	3441
+mas	CCONJ	mas	cc	44
+a	DET	o	det	5
+forma	NOUN	forma	nsubj	94
+como	ADV	como	advmod	29
+também	ADV	também	advmod	48
+tem	VERB	ter	conj	52
+impacto	NOUN	impacto	obj	1565
+diferente	ADJ	diferente	amod	606
+nas	ADP	em o	case	78
+outras	DET	outro	det	158
+pessoas	NOUN	pessoa	nmod	87
+
+Começas	NOUN	Começas	nsubj	271471
+a	SCONJ	a	mark	5
+ganhar	VERB	ganhar	xcomp	1060
+consciência	NOUN	consciência	obj	1571
+das	ADP	de o	case	34
+várias	DET	várias	det	377
+camadas	NOUN	camada	nmod	4755
+de	ADP	de	case	2
+opressão	NOUN	opressão	nmod	13577
+ou	CCONJ	ou	cc	33
+tens	VERB	tens	conj	6661
+consciência	NOUN	consciência	obj	1571
+de	SCONJ	de	mark	2
+como	ADV	como	advmod	29
+é	AUX	ser	discourse	14
+que	SCONJ	que	mark	7
+a	DET	o	det	5
+sociedade	NOUN	sociedade	nsubj	424
+funciona	VERB	funcionar	acl	1401
+no	ADP	em o	case	16
+fundo	NOUN	fundo	obl	982
+começas	VERB	começas	ROOT	93739
+a	SCONJ	a	mark	5
+ficar	VERB	ficar	xcomp	325
+mais	ADV	mais	advmod	25
+politizada	VERB	politizado	xcomp	90060
+e	CCONJ	e	cc	4
+acabas	VERB	acabas	conj	121110
+por	SCONJ	por	mark	22
+não	ADV	não	advmod	21
+conseguir	VERB	conseguir	xcomp	850
+só	ADV	só	advmod	96
+estar	AUX	estar	cop	238
+no	ADP	em o	case	16
+movimento	NOUN	movimento	obj	768
+e	CCONJ	e	cc	4
+queres	VERB	queres	conj	14924
+te	PRON	te	mark	398
+envolver	VERB	envolver	xcomp	5985
+em	ADP	em	case	10
+todos	PRON	todo	obl	75
+ou	CCONJ	ou	cc	33
+tentar	VERB	tentar	conj	969
+pelo	ADP	por o	case	45
+menos	NOUN	menos	obl	165
+estar	AUX	estar	cop	238
+em	ADP	em	case	10
+várias	DET	várias	det	377
+causas	NOUN	causa	obj	2842
+
+É	AUX	ser	cop	88
+isto	PRON	isto	advmod	534
+continua	VERB	continuar	ROOT	1154
+a	SCONJ	a	mark	5
+ser	AUX	ser	cop	36
+importante	ADJ	importante	xcomp	241
+para	ADP	para	case	11
+mim	PRON	eu	obl	380
+o	DET	o	det	6
+ativismo	NOUN	ativismo	nsubj	24096
+porque	SCONJ	porque	mark	128
+é	AUX	ser	cop	14
+o	PRON	o	advcl	6
+que	PRON	que	nsubj	7
+me	PRON	eu	iobj	86
+dá	VERB	dar	acl:relcl	382
+vontade	NOUN	vontade	obj	672
+de	SCONJ	de	mark	2
+continuar	VERB	continuar	acl	1182
+aqui	ADV	aqui	advmod	140
+
+Porque	SCONJ	porque	mark	1560
+acho	VERB	achar	ROOT	697
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+preciso	ADJ	preciso	ccomp	509
+continuar	VERB	continuar	csubj	1182
+envolvida	VERB	envolvir	xcomp	9207
+e	CCONJ	e	cc	4
+ativa	ADJ	ativo	conj	3466
+nas	ADP	em o	case	78
+coisas	NOUN	coisa	obl	269
+
+E	CCONJ	e	cc	79
+como	ADV	como	advmod	29
+é	AUX	ser	ROOT	14
+que	SCONJ	que	mark	7
+costuma	VERB	costumar	ccomp	3972
+ser	AUX	ser	cop	36
+o	DET	o	det	6
+teu	DET	teu	det	1759
+dia-a-dia	NOUN	dia-a-dia	xcomp	4996
+dentro	ADV	dentro	advmod	234
+destas	ADP	de este	case	2310
+causas	NOUN	causa	obl	2842
+
+Quando	ADV	quando	mark	259
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+costumas	VERB	costumas	ROOT	153956
+participar	VERB	participar	xcomp	953
+
+Neste	ADP	em este	case	841
+momento	NOUN	momento	obl	201
+em	ADP	em	case	10
+termos	NOUN	termos	nmod	719
+de	ADP	de	case	2
+participação	NOUN	participação	nmod	608
+é	AUX	ser	cop	14
+mais	ADV	mais	advmod	25
+nos	ADP	em o	case	53
+grupos	NOUN	grupo	obl	846
+do	ADP	de o	case	8
+WhatsApp	PROPN	MISC	nmod	5765
+há	VERB	haver	ROOT	114
+vários	DET	vários	det	328
+grupos	NOUN	grupo	obj	846
+formados	VERB	formar	acl	8374
+
+Vou	SCONJ	MISC	aux	2557
+ser	AUX	ser	cop	36
+sincera	ADJ	sincero	ROOT	12394
+muitos	DET	muito	det	252
+eu	PRON	eu	nsubj	63
+não	ADV	não	advmod	21
+consigo	VERB	consiger	conj	1698
+acompanhar	VERB	acompanhar	xcomp	1796
+pois	SCONJ	pois	mark	143
+o	DET	o	det	6
+pessoal	NOUN	pessoal	nsubj	607
+manda	VERB	mandar	advcl	5516
+muitas	DET	muito	det	245
+mensagens	NOUN	mensagem	obj	2011
+por	ADP	por	case	22
+dia	NOUN	dia	nmod	67
+
+Mas	CCONJ	mas	cc	130
+naquilo	PRON	em aquilo	nsubj	10432
+em	ADP	em	case	10
+que	PRON	que	obl	7
+sou	AUX	ser	cop	525
+mesmo	ADV	mesmo	advmod	66
+necessária	ADJ	necessário	acl:relcl	1916
+em	ADP	em	case	10
+que	PRON	que	obl	7
+é	AUX	ser	cop	14
+preciso	ADJ	preciso	acl:relcl	509
+uma	DET	um	det	15
+opinião	NOUN	opinião	nsubj	1151
+sobre	ADP	sobre	case	55
+uma	DET	um	det	15
+coisa	NOUN	coisa	nmod	267
+ou	CCONJ	ou	cc	33
+estão	VERB	estar	conj	121
+a	SCONJ	a	mark	5
+pensar	VERB	pensar	xcomp	832
+em	SCONJ	em	mark	10
+fazer	VERB	fazer	xcomp	82
+alguma	DET	algum	det	410
+ação	NOUN	ação	obj	419
+específica	ADJ	específico	amod	3182
+eu	PRON	eu	nsubj	63
+tento	VERB	tentar	ROOT	8364
+responder	VERB	responder	xcomp	1987
+na	ADP	em o	case	20
+medida	NOUN	medida	obl	791
+do	ADP	de o	case	8
+possível	NOUN	possível	nmod	224
+
+Tento	NOUN	PER	nsubj	31990
+também	ADV	também	advmod	48
+participar	VERB	participar	ROOT	953
+nas	ADP	em o	case	78
+reuniões	NOUN	reunião	obj	2968
+que	PRON	que	nsubj	7
+vão	AUX	ir	aux	427
+existindo	VERB	existir	acl:relcl	16671
+seja	VERB	ser	advcl	126
+para	SCONJ	para	mark	11
+preparar	VERB	preparar	advcl	2604
+eventos	NOUN	evento	obj	879
+ou	CCONJ	ou	cc	33
+protestos	NOUN	protesto	conj	7355
+específicos	ADJ	específico	amod	2868
+seja	AUX	ser	aux	126
+só	ADV	só	advmod	96
+para	SCONJ	para	mark	11
+fazer	VERB	fazer	advcl	82
+um	DET	um	det	13
+ponto	NOUN	ponto	obj	338
+de	ADP	de	case	2
+situação	NOUN	situação	nmod	413
+do	ADP	de o	case	8
+coletivo	NOUN	coletivo	nmod	3507
+ou	CCONJ	ou	cc	33
+do	ADP	de o	case	8
+grupo	NOUN	grupo	conj	248
+
+E	CCONJ	e	cc	79
+aos	ADP	a o	case	81
+fins	NOUN	fim	nsubj	1856
+de	ADP	de	case	2
+semanas	NOUN	semana	nmod	1378
+é	AUX	ser	discourse	14
+quando	ADV	quando	advmod	71
+mais	ADV	mais	advmod	25
+me	PRON	eu	obj	86
+dedico	VERB	dedicar	ROOT	36415
+ao	ADP	a o	case	32
+ativismo	NOUN	ativismo	obj	24096
+
+É	AUX	ser	cop	88
+o	DET	o	det	6
+meu	DET	meu	det	137
+tempo	NOUN	tempo	nsubj	85
+livre	ADJ	livre	amod	769
+é	AUX	ser	cop	14
+um	DET	um	det	13
+tempo	NOUN	tempo	ROOT	85
+que	SCONJ	que	mark	7
+eu	PRON	eu	nsubj	63
+ainda	ADV	ainda	advmod	68
+continuo	VERB	continuar	acl:relcl	9473
+a	SCONJ	a	mark	5
+direcionar	VERB	direcionar	xcomp	14492
+uma	DET	um	det	15
+parte	NOUN	parte	obj	112
+dele	PRON	de ele	nmod	432
+para	SCONJ	para	mark	11
+estar	AUX	estar	cop	238
+no	ADP	em o	case	16
+ativismo	NOUN	ativismo	obl	24096
+e	CCONJ	e	cc	4
+participar	VERB	participar	conj	953
+nos	ADP	em o	case	53
+protestos	NOUN	protesto	obj	7355
+e	CCONJ	e	cc	4
+nas	ADP	em o	case	78
+vigílias	NOUN	vigília	conj	87212
+também	ADV	também	advmod	48
+quando	ADV	quando	advmod	71
+vou	VERB	ir	advcl	469
+a	ADP	a	case	5
+Braga	PROPN	LOC	obl	3847
+
+É	VERB	ser	ROOT	88
+assim	ADV	assim	fixed	117
+que	SCONJ	que	mark	7
+eu	PRON	eu	nsubj	63
+estou	AUX	estar	ccomp	381
+neste	ADP	em este	case	280
+momento	NOUN	momento	obl	201
+
+Também	ADV	também	advmod	629
+é	AUX	ser	cop	14
+importante	ADJ	importante	ROOT	241
+falar	VERB	falar	csubj	409
+sobre	ADP	sobre	case	55
+esses	DET	esse	det	457
+mesmos	ADJ	mesmo	amod	1146
+movimentos	NOUN	movimento	obj	1730
+
+Ou	CCONJ	Ou	cc	978
+seja	VERB	ser	fixed	126
+mesmo	ADV	mesmo	advmod	66
+estando	VERB	estar	cop	3863
+agora	ADV	agora	advmod	193
+num	ADP	em um	case	270
+local	NOUN	local	obl	247
+de	ADP	de	case	2
+trabalho	NOUN	trabalho	nmod	113
+quando	ADV	quando	advmod	71
+tenho	VERB	ter	advcl	301
+a	DET	o	det	5
+oportunidade	NOUN	oportunidade	obj	724
+vou	AUX	ir	aux	469
+falando	VERB	falar	ROOT	1494
+também	ADV	também	advmod	48
+sobre	ADP	sobre	case	55
+os	DET	o	det	18
+coletivos	NOUN	coletivo	obj	8823
+que	PRON	que	nsubj	7
+existem	VERB	existir	acl:relcl	892
+e	CCONJ	e	cc	4
+ver	VERB	ver	conj	197
+se	SCONJ	se	mark	24
+mais	ADV	mais	advmod	25
+alguém	PRON	alguém	nsubj	560
+tem	VERB	ter	ccomp	52
+interesse	NOUN	interesse	obj	770
+
+Existe	VERB	Existe	ROOT	3770
+alguma	DET	algum	det	410
+experiência	NOUN	experiência	obj	404
+marcante	ADJ	marcante	amod	6850
+que	SCONJ	que	mark	7
+tenhas	AUX	tenhas	aux	24311
+vivido	VERB	viver	acl:relcl	8552
+dentro	ADV	dentro	advmod	234
+do	ADP	de o	case	8
+ativismo	NOUN	ativismo	obl	24096
+que	PRON	que	nsubj	7
+te	PRON	te	obj	398
+lembres	NOUN	lembr	acl:relcl	175505
+que	PRON	que	nsubj	7
+seja	AUX	ser	cop	126
+importante	ADJ	importante	ccomp	241
+para	ADP	para	case	11
+ti	PRON	ti	obl	3441
+
+Há	VERB	haver	advcl	501
+muitos	DET	muito	det	252
+momentos	NOUN	momento	obj	819
+mas	CCONJ	mas	cc	44
+se	SCONJ	se	mark	24
+calhar	VERB	calhar	advcl	13459
+o	DET	o	det	6
+mais	ADV	mais	advmod	25
+marcante	ADJ	marcante	conj	6850
+num	ADP	em um	case	270
+passado	NOUN	passado	obl	401
+recente	ADJ	recente	amod	1767
+foi	VERB	ser	conj	35
+pela	ADP	por o	case	51
+causa	NOUN	causa	obl	498
+da	ADP	de o	case	9
+Palestina	PROPN	LOC	nmod	13291
+dentro	ADV	dentro	advmod	234
+da	ADP	de o	case	9
+Universidade do Minho	PROPN	LOC	obl	500002
+conheci	VERB	conheci	ROOT	6083
+uma	DET	um	det	15
+pessoa	NOUN	pessoa	obj	244
+que	PRON	que	nsubj	7
+passou	VERB	passar	acl:relcl	616
+a	SCONJ	a	mark	5
+ser	AUX	ser	cop	36
+uma	DET	um	det	15
+amiga	NOUN	amiga	xcomp	1853
+também	ADV	também	advmod	48
+e	CCONJ	e	cc	4
+que	PRON	que	nsubj	7
+é	AUX	ser	cop	14
+uma	DET	um	det	15
+pessoa	NOUN	pessoa	conj	244
+palestiniana	ADJ	palestiniano	amod	125284
+na	ADP	em o	case	20
+Universidade do Minho	PROPN	LOC	nmod	500002
+
+Eu	PRON	eu	nsubj	171
+conheci	VERB	conheci	ROOT	6083
+esta	DET	este	det	147
+pessoa	NOUN	pessoa	obj	244
+num	ADP	em um	case	270
+protesto	NOUN	protesto	obl	5970
+e	CCONJ	e	cc	4
+ela	PRON	ela	nsubj	98
+partilhou	VERB	partilhar	conj	34457
+o	DET	o	det	6
+testemunho	NOUN	testemunho	obj	6145
+dela	PRON	de ela	nmod	667
+
+Ela	PRON	ela	nsubj	448
+apareceu	VERB	aparecer	ROOT	3422
+no	ADP	em o	case	16
+protesto	NOUN	protesto	obl	5970
+porque	SCONJ	porque	mark	128
+eu	PRON	eu	nsubj	63
+estava	VERB	estar	advcl	169
+a	SCONJ	a	mark	5
+gerir	VERB	gerir	xcomp	8769
+uma	NUM	um	obj	15
+das	ADP	de o	case	34
+redes	NOUN	rede	nmod	821
+sociais	ADJ	social	amod	433
+desse	ADP	de esse	case	412
+coletivo	NOUN	coletivo	nmod	3507
+ela	PRON	ela	nsubj	98
+tinha	AUX	ter	aux	203
+mandado	VERB	mandar	conj	6849
+mensagem	NOUN	mensagem	obj	1216
+na	ADP	em o	case	20
+altura	NOUN	altura	obl	989
+a	SCONJ	a	mark	5
+perguntar	VERB	perguntar	xcomp	4538
+se	SCONJ	se	mark	24
+podia	VERB	poder	ccomp	1878
+participar	VERB	participar	xcomp	953
+
+Eu	PRON	eu	nsubj	171
+disse	VERB	dizer	ROOT	204
+claro	ADV	claro	xcomp	597
+que	SCONJ	que	mark	7
+sim	ADV	sim	ccomp	445
+
+Não	ADV	não	advmod	102
+estava	VERB	estar	cop	169
+à	ADP	a o	case	43
+espera	NOUN	espera	ROOT	1481
+que	SCONJ	que	mark	7
+ela	PRON	ela	nsubj	98
+aparecesse	VERB	aparecer	csubj	40165
+e	CCONJ	e	cc	4
+quisesse	VERB	quisesse	conj	11033
+partilhar	VERB	partilhar	xcomp	6768
+de	ADP	de	case	2
+uma	DET	um	det	15
+forma	NOUN	forma	obl	94
+tão	ADV	tão	advmod	215
+visceral	ADJ	visceral	amod	26931
+a	DET	o	det	5
+experiência	NOUN	experiência	obj	404
+dela	PRON	de ela	nmod	667
+
+Depois	ADV	depois	advmod	406
+disso	PRON	de isso	obl	273
+continuamos	VERB	continuar	ROOT	14926
+a	SCONJ	a	mark	5
+falar	VERB	falar	xcomp	409
+uma	NUM	um	obj	15
+com	ADP	com	case	12
+a	DET	o	det	5
+outra	PRON	outro	det	253
+e	CCONJ	e	cc	4
+continuamos	VERB	continuar	conj	14926
+a	SCONJ	a	mark	5
+estreitar	VERB	estreitar	xcomp	25330
+relações	NOUN	relação	obj	1138
+também	ADV	também	advmod	48
+
+Desde	ADP	desde	case	1070
+que	SCONJ	que	obl	7
+ela	PRON	ele	nsubj	98
+me	PRON	eu	iobj	86
+conheceu	VERB	conhecer	ROOT	5864
+que	SCONJ	que	nsubj	7
+tinha	AUX	ter	aux	203
+dito	VERB	dizer	ccomp	2314
+que	SCONJ	que	mark	7
+queria	VERB	querer	ccomp	975
+muito	ADV	muito	advmod	50
+oferecer-me	VERB	oferecer-me	xcomp	204588
+o	DET	o	det	6
+keffiyeh	NOUN	keffiyeh	obj	18446744073709551615
+dela	PRON	de ela	nmod	667
+o	DET	o	det	6
+lenço	NOUN	lenço	nsubj	17694
+palestiniano	ADJ	palestiniano	amod	83915
+que	PRON	que	obj	7
+ela	PRON	ele	nsubj	98
+já	ADV	já	advmod	57
+tinha	VERB	ter	acl:relcl	203
+desde	ADP	desde	case	185
+os	DET	o	det	18
+quatro	NUM	quatro	nummod	356
+anos	NOUN	ano	obl	64
+de	ADP	de	case	2
+idade	NOUN	idade	nmod	646
+
+Este	PRON	este	nsubj	239
+foi	AUX	ser	cop	35
+o	DET	o	det	6
+lenço	NOUN	lenço	nsubj	17694
+que	PRON	que	nsubj	7
+ela	PRON	ela	nsubj	98
+usou	VERB	usar	acl:relcl	4198
+em	ADP	em	case	10
+protestos	NOUN	protesto	obl	7355
+foi	AUX	ser	cop	35
+o	DET	o	det	6
+lenço	NOUN	lenço	ROOT	17694
+que	PRON	que	obj	7
+ela	PRON	ele	nsubj	98
+sempre	ADV	sempre	advmod	100
+usou	VERB	usar	acl:relcl	4198
+com	ADP	com	case	12
+a	DET	o	det	5
+família	NOUN	família	obl	263
+lá	ADV	lá	advmod	258
+na	ADP	em o	case	20
+Palestina	PROPN	LOC	obl	13291
+
+E	CCONJ	e	cc	79
+ela	PRON	ela	nsubj	98
+queria	VERB	querer	ROOT	975
+muito	ADV	muito	advmod	50
+dar-me	VERB	dar-me	xcomp	52069
+porque	SCONJ	porque	mark	128
+sentia	VERB	senter	advcl	5415
+que	SCONJ	que	mark	7
+era	AUX	ser	cop	95
+importante	ADJ	importante	ccomp	241
+passar	VERB	passar	csubj	531
+esse	DET	esse	det	125
+testemunho	NOUN	testemunho	obj	6145
+a	ADP	a	case	5
+alguém	PRON	alguém	obj	560
+que	PRON	que	nsubj	7
+está	AUX	estar	aux	58
+cá	ADV	cá	advmod	2217
+a	SCONJ	a	mark	5
+lutar	VERB	lutar	acl:relcl	3360
+também	ADV	também	advmod	48
+pela	ADP	por o	case	51
+causa	NOUN	causa	obj	498
+da	ADP	de o	case	9
+Palestina	PROPN	LOC	nmod	13291
+da	ADP	de o	case	9
+causa	NOUN	causa	obl	498
+dela	PRON	de ele	nmod	667
+que	PRON	que	nsubj	7
+é	AUX	ser	cop	14
+literalmente	ADV	literalmente	advmod	5720
+uma	DET	um	det	15
+situação	NOUN	situação	acl:relcl	413
+de	ADP	de	case	2
+vida	NOUN	vida	nmod	90
+ou	CCONJ	ou	cc	33
+morte	NOUN	morte	conj	553
+
+Foi	AUX	ser	cop	344
+um	DET	um	det	13
+momento	NOUN	momento	ROOT	201
+muito	ADV	muito	advmod	50
+emocionante	ADJ	emocionante	amod	6972
+
+Esse	PRON	esse	nsubj	579
+foi	AUX	ser	cop	35
+o	DET	o	det	6
+objeto	NOUN	objeto	ROOT	1586
+que	PRON	que	obj	7
+eu	PRON	eu	nsubj	63
+trouxe	VERB	trazer	acl:relcl	2621
+também	ADV	também	advmod	48
+
+Desde	SCONJ	desde	mark	1070
+há	ADP	há	ROOT	114
+dois	NUM	dois	nummod	127
+anos	NOUN	ano	obj	64
+que	PRON	que	nsubj	7
+tenho	AUX	ter	aux	301
+andado	VERB	andar	acl:relcl	18012
+todos	DET	todo	det	75
+os	ADP	os	case	18
+dias	NOUN	dia	obl	144
+com	ADP	com	case	12
+ele	PRON	ele	obl	62
+para	ADP	para	case	11
+o	DET	o	det	6
+trabalho	NOUN	trabalho	obl	113
+para	ADP	para	case	11
+os	DET	o	det	18
+protestos	NOUN	protesto	obl	7355
+
+E	CCONJ	e	cc	79
+ajuda	VERB	ajudar	ROOT	540
+também	ADV	também	advmod	48
+a	SCONJ	a	mark	5
+sanar	VERB	sanar	xcomp	17894
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	obj	13872
+a	DET	o	det	5
+saudade	NOUN	saudade	obj	5998
+dessa	ADP	de esse	case	417
+pessoa	NOUN	pessoa	nmod	244
+amiga	ADJ	amigo	amod	1853
+que	PRON	que	nsubj	7
+neste	ADP	em este	case	280
+momento	NOUN	momento	obl	201
+não	ADV	não	advmod	21
+está	AUX	estar	cop	58
+aqui	ADV	aqui	ccomp	140
+
+Está	AUX	estar	cop	1895
+na	ADP	em o	case	20
+Palestina	PROPN	LOC	ROOT	13291
+e	CCONJ	e	cc	4
+quer	VERB	querer	conj	302
+muito	ADV	muito	advmod	50
+voltar	VERB	voltar	xcomp	1091
+a	ADP	a	case	5
+Portugal	PROPN	LOC	obl	463
+
+A	SCONJ	a	mark	31
+ver	VERB	ver	ROOT	197
+se	PRON	se	nsubj	24
+consegue	VERB	conseguir	ccomp	1111
+
+Nós	PRON	nós	nsubj	1115
+vamos	AUX	ir	aux	692
+então	ADV	então	advmod	196
+passar	VERB	passar	ROOT	531
+à	ADP	a o	case	43
+próxima	ADJ	próximo	amod	859
+pergunta	NOUN	pergunta	obj	1671
+que	PRON	que	nsubj	7
+é	AUX	ser	cop	14
+então	ADV	então	advmod	196
+que	SCONJ	que	mark	7
+objeto	NOUN	objeto	nsubj	1586
+trouxeste	VERB	trouxeste	ccomp	171566
+e	CCONJ	e	cc	4
+qual	PRON	qual	conj	123
+o	DET	o	det	6
+seu	DET	seu	det	42
+significado	NOUN	significado	obj	2704
+para	ADP	para	case	11
+ti	PRON	ti	nmod	3441
+
+Ele	PRON	ele	nsubj	191
+está	AUX	estar	cop	58
+aqui	ADV	aqui	ROOT	140
+
+Agora	ADV	agora	advmod	691
+está	AUX	estar	cop	58
+um	DET	um	det	13
+bocado	NOUN	bocado	ROOT	11939
+enroladinho	ADJ	enroladinho	amod	144125
+porque	SCONJ	porque	mark	128
+eu	PRON	eu	nsubj	63
+não	ADV	não	advmod	21
+estive	VERB	estive	advcl	7143
+a	SCONJ	a	mark	5
+usá-lo	VERB	usá-lo	xcomp	12491
+que	PRON	que	nsubj	7
+hoje	ADV	hoje	advmod	163
+está	AUX	estar	cop	58
+muito	DET	muito	det	50
+calor	NOUN	calor	acl:relcl	2017
+
+Mas	CCONJ	mas	cc	130
+ele	PRON	ele	nsubj	62
+tem	AUX	ter	aux	52
+andado	VERB	andar	advcl	18012
+sempre	ADV	sempre	advmod	100
+comigo	PRON	comigo	obj	1635
+já	ADV	já	advmod	57
+é	AUX	ser	cop	14
+bem	ADV	bem	advmod	69
+antiguinho	ADJ	antiguinho	ROOT	154301
+e	CCONJ	e	cc	4
+bem	ADV	bem	advmod	69
+frágil	ADJ	frágil	conj	9782
+
+Mas	CCONJ	mas	cc	130
+na	ADP	em o	case	20
+altura	NOUN	altura	obl	989
+a	DET	o	det	5
+Masha	PROPN	LOC	nsubj	95606
+tinha-me	AUX	tinha-me	aux	108243
+dito	VERB	dizer	ROOT	2314
+também	ADV	também	advmod	48
+para	SCONJ	para	mark	11
+usar	VERB	usar	advcl	388
+
+A	DET	o	det	31
+ideia	NOUN	ideia	nsubj	617
+não	ADV	não	advmod	21
+era	AUX	ser	cop	95
+ele	PRON	ele	nsubj	62
+ficar	VERB	ficar	ROOT	325
+guardado	VERB	guardar	xcomp	12147
+em	ADP	em	case	10
+casa	NOUN	casa	obl	142
+ela	PRON	ela	nsubj	98
+queria	VERB	querer	conj	975
+muito	ADV	muito	advmod	50
+que	SCONJ	que	mark	7
+eu	PRON	eu	nsubj	63
+usasse	VERB	usar	ccomp	40096
+
+E	CCONJ	e	cc	79
+eu	PRON	eu	nsubj	63
+fui-lhe	VERB	fui-lhe	aux	441491
+mandando	VERB	mandar	ROOT	15968
+fotografias	NOUN	fotografia	obj	4185
+em	ADP	em	case	10
+protestos	NOUN	protesto	nmod	7355
+sempre	ADV	sempre	advmod	100
+a	SCONJ	a	mark	5
+mostrar	VERB	mostrar	advcl	1059
+que	SCONJ	que	mark	7
+o	DET	o	det	6
+keffiyeh	NOUN	keffiyeh	nsubj	18446744073709551615
+andava	VERB	andar	ccomp	10269
+comigo	NOUN	comigo	obj	1635
+
+Então	ADV	então	advmod	591
+este	DET	este	det	83
+objeto	NOUN	objeto	nsubj	1586
+para	ADP	para	case	11
+mim	PRON	eu	obl	380
+representa	VERB	representar	advcl	1417
+resistência	NOUN	resistência	obj	1678
+representa	VERB	representar	ROOT	1417
+libertação	NOUN	libertação	obj	7363
+e	CCONJ	e	cc	4
+união	NOUN	união	conj	2880
+além	ADV	além	advmod	164
+de	ADP	de	case	2
+fronteiras	NOUN	fronteira	obl	5811
+
+E	CCONJ	e	cc	79
+acho	VERB	achar	ROOT	697
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+um	DET	um	det	13
+símbolo	NOUN	símbolo	ccomp	3686
+de	ADP	de	case	2
+resistência	NOUN	resistência	nmod	1678
+muito	ADV	muito	advmod	50
+importante	ADJ	importante	amod	241
+não	ADV	não	advmod	21
+só	ADV	só	advmod	96
+para	ADP	para	case	11
+as	DET	o	det	23
+pessoas	NOUN	pessoa	nmod	87
+palestinianas	ADJ	palestiniano	amod	187882
+mas	CCONJ	mas	cc	44
+para	ADP	para	case	11
+todo	DET	todo	det	131
+o	DET	o	det	6
+mundo	NOUN	mundo	conj	120
+para	ADP	para	case	11
+todas	DET	todo	det	162
+as	DET	o	det	23
+pessoas	NOUN	pessoa	nmod	87
+
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+em	ADP	em	case	10
+termos	NOUN	termos	ccomp	719
+de	ADP	de	case	2
+ativismos	NOUN	ativismo	nmod	200480
+que	SCONJ	que	nsubj	7
+lutar	VERB	lutar	ccomp	3360
+por	ADP	por	case	22
+tantas	DET	tanto	det	2179
+causas	NOUN	causa	obl	2842
+e	CCONJ	e	cc	4
+não	ADV	não	advmod	21
+lutar	VERB	lutar	conj	3360
+pela	ADP	por o	case	51
+libertação	NOUN	libertação	obj	7363
+da	ADP	de o	case	9
+Palestina	PROPN	LOC	nmod	13291
+algo	PRON	algo	nsubj	284
+aí	ADV	aí	advmod	669
+não	ADV	não	advmod	21
+está	AUX	estar	cop	58
+correto	ADJ	correto	ccomp	3452
+algo	PRON	algo	nsubj	284
+não	ADV	não	advmod	21
+está	AUX	estar	cop	58
+certo	ADJ	certo	conj	573
+
+Além	ADV	além	cc	266
+disso	PRON	de isso	obl	273
+esta	DET	este	det	147
+luta	NOUN	luta	nsubj	973
+pela	ADP	por o	case	51
+libertação	NOUN	libertação	nmod	7363
+da	ADP	de o	case	9
+Palestina	PROPN	LOC	nmod	13291
+fez-me	PROPN	fez-me	ROOT	34419
+reparar	VERB	reparar	xcomp	10584
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+quase	ADV	quase	advmod	303
+um	NUM	um	nummod	13
+deal-breaker	NOUN	deal-breaker	ccomp	18446744073709551615
+dentro	ADV	dentro	advmod	234
+do	ADP	de o	case	8
+ativismo	NOUN	ativismo	obl	24096
+
+É	AUX	ser	cop	88
+aqui	ADV	aqui	ROOT	140
+que	SCONJ	que	mark	7
+as	DET	o	det	23
+pessoas	NOUN	pessoa	nsubj	87
+se	PRON	se	expl	24
+revelam	VERB	revelar	csubj	8001
+
+Quando	SCONJ	quando	mark	259
+vem	VERB	vir	advcl	347
+a	DET	o	det	5
+causa	NOUN	causa	nsubj	498
+da	ADP	de o	case	9
+Palestina	PROPN	LOC	nmod	13291
+é	VERB	ser	ROOT	14
+que	SCONJ	que	mark	7
+tu	PROPN	tu	nsubj	2642
+vês	VERB	vês	ccomp	36583
+realmente	ADV	realmente	advmod	512
+quem	PRON	quem	mark	129
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+quer	VERB	querer	ccomp	302
+a	DET	o	det	5
+libertação	NOUN	libertação	obj	7363
+de	ADP	de	case	2
+todos	DET	todo	det	75
+os	DET	o	det	18
+povos	NOUN	povo	nmod	3186
+quem	PRON	quem	nsubj	129
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+acredita	VERB	acreditar	conj	2267
+na	ADP	em o	case	20
+luta	NOUN	luta	obl	973
+interseccional	ADJ	interseccional	amod	188839
+e	CCONJ	e	cc	4
+quem	PRON	quem	nsubj	129
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+não	ADV	não	advmod	21
+está	AUX	estar	cop	58
+nesse	ADP	em esse	case	543
+lado	NOUN	lado	conj	223
+da	ADP	de o	case	9
+luta	NOUN	luta	nmod	973
+
+Relativamente	ADV	relativamente	advmod	20985
+agora	ADV	agora	advmod	193
+a	ADP	a	case	5
+certos	DET	certos	det	2869
+desafios	NOUN	desafio	obl	1977
+já	ADV	já	advmod	57
+enfrentaste	VERB	enfrentaste	ROOT	18446744073709551615
+obstáculos	NOUN	obstáculo	obj	5956
+ou	CCONJ	ou	cc	33
+dificuldades	NOUN	dificuldade	conj	1424
+no	ADP	em o	case	16
+ativismo	NOUN	ativismo	nmod	24096
+
+E	CCONJ	e	cc	79
+se	SCONJ	se	mark	24
+sim	ADV	sim	ROOT	445
+como	ADV	como	advmod	29
+é	AUX	ser	fixed	14
+que	SCONJ	que	fixed	7
+os	DET	o	det	18
+ultrapassaste	NOUN	ultrapassaste	obl	18446744073709551615
+
+Em	ADP	em	case	76
+termos	NOUN	termos	obl	719
+de	ADP	de	case	2
+obstáculos	NOUN	obstáculo	nmod	5956
+acho	VERB	achar	ROOT	697
+que	SCONJ	que	mark	7
+há	VERB	haver	ccomp	114
+dois	NUM	dois	nummod	127
+níveis	NOUN	nível	obj	1316
+
+Há	VERB	haver	ROOT	501
+os	DET	o	det	18
+obstáculos	NOUN	obstáculo	obj	5956
+da	ADP	de o	case	9
+própria	DET	próprio	amod	390
+organização	NOUN	organização	nmod	702
+em	ADP	em	case	10
+si	PRON	si	nmod	551
+ou	CCONJ	ou	cc	33
+seja	VERB	ser	fixed	126
+em	ADP	em	case	10
+termos	NOUN	termos	dep	719
+da	ADP	de o	case	9
+organização	NOUN	organização	nmod	702
+
+Tenta-se	VERB	Tenta-se	ROOT	173546
+que	SCONJ	que	mark	7
+seja	AUX	ser	cop	126
+sempre	ADV	sempre	advmod	100
+uma	DET	um	det	15
+organização	NOUN	organização	ccomp	702
+horizontal	ADJ	horizontal	amod	8592
+ou	CCONJ	ou	cc	33
+seja	VERB	ser	fixed	126
+todas	DET	todo	det	162
+as	DET	o	det	23
+pessoas	NOUN	pessoa	nsubj	87
+falam	VERB	falar	conj	4086
+todas	DET	todo	det	162
+as	DET	o	det	23
+pessoas	NOUN	pessoa	nsubj	87
+dão	VERB	dar	ccomp	2145
+a	DET	o	det	5
+sua	DET	seu	det	37
+opinião	NOUN	opinião	obj	1151
+toda	DET	todo	det	199
+a	DET	o	det	5
+gente	NOUN	gente	nsubj	309
+tenta	VERB	tentar	parataxis	2594
+gerir	VERB	gerir	xcomp	8769
+de	ADP	de	case	2
+uma	DET	um	det	15
+forma	NOUN	forma	obl	94
+autónoma	ADJ	autónomo	amod	16333
+por	ADP	por	mark	22
+assim	ADV	assim	fixed	117
+dizer	VERB	dizer	advcl	318
+autogerir	VERB	autogerir	advcl	212364
+o	DET	o	det	6
+movimento	NOUN	movimento	obj	768
+
+Os	DET	o	det	77
+desafios	NOUN	desafio	nsubj	1977
+que	PRON	que	obj	7
+isto	PRON	isto	nsubj	534
+traz	VERB	trazer	acl:relcl	1024
+consigo	PRON	com si	obj	1698
+que	PRON	que	nsubj	7
+acarreta	VERB	acarretar	acl:relcl	20085
+é	AUX	ser	cop	14
+mesmo	ADV	mesmo	advmod	66
+as	DET	o	det	23
+diferentes	DET	diferente	det	336
+personalidades	NOUN	personalidade	ROOT	6504
+os	DET	o	det	18
+diferentes	ADJ	diferente	det	336
+pontos	NOUN	ponto	appos	363
+de	ADP	de	compound	2
+vista	NOUN	vista	compound	545
+as	DET	o	det	23
+próprias	ADJ	próprio	amod	2100
+diferenças	NOUN	diferença	nsubj	2668
+de	ADP	de	case	2
+idades	NOUN	idade	nmod	5744
+ou	CCONJ	ou	cc	33
+seja	VERB	ser	fixed	126
+às	ADP	a o	case	105
+vezes	NOUN	vez	conj	179
+entre	ADP	entre	case	65
+os	DET	o	det	18
+coletivos	NOUN	coletivo	nmod	8823
+também	ADV	também	advmod	48
+há	VERB	haver	conj	114
+choque	NOUN	choque	obj	5709
+geracional	ADJ	geracional	amod	71524
+
+Às	ADP	a o	case	3456
+vezes	NOUN	vez	obl	179
+é	AUX	ser	aux:pass	14
+complicado	ADJ	complicar	ROOT	4634
+gerir	VERB	gerir	csubj	8769
+estas	DET	este	det	1003
+emoções	NOUN	emoção	obj	3396
+todas	ADJ	todo	amod	162
+para	SCONJ	para	mark	11
+irmos	VERB	ir	obl	21721
+numa	ADP	em um	case	300
+direção	NOUN	direção	obl	890
+comum	ADJ	comum	amod	643
+
+Por	ADP	por	case	156
+isso	PRON	isso	obl	70
+por	ADP	por	case	22
+vezes	NOUN	vez	obl	179
+as	DET	o	det	23
+reuniões	NOUN	reunião	nsubj	2968
+são	AUX	ser	cop	46
+muito	ADV	muito	advmod	50
+desgastantes	ADJ	desgastante	ROOT	86363
+principalmente	ADV	principalmente	advmod	442
+quando	ADV	quando	advmod	71
+estamos	VERB	estar	conj	655
+a	SCONJ	a	mark	5
+tentar	VERB	tentar	xcomp	969
+construir	VERB	construir	xcomp	1859
+o	DET	o	det	6
+manifesto	NOUN	manifesto	obj	12452
+ou	CCONJ	ou	cc	33
+quando	ADV	quando	advmod	71
+estamos	VERB	estar	conj	655
+a	SCONJ	a	mark	5
+tentar	VERB	tentar	xcomp	969
+construir	VERB	construir	xcomp	1859
+uma	DET	um	det	15
+ideia	NOUN	ideia	obj	617
+que	SCONJ	que	nsubj	7
+queremos	VERB	querer	acl:relcl	2627
+apresentar	VERB	apresentar	xcomp	1023
+
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+desgasta	VERB	desgastar	ccomp	62229
+também	ADV	também	advmod	48
+emocionalmente	ADV	emocionalmente	advmod	16527
+e	CCONJ	e	cc	4
+psicologicamente	ADV	psicologicamente	advmod	25610
+o	DET	o	det	6
+pessoal	NOUN	pessoal	conj	607
+o	PRON	o	appos	6
+que	PRON	que	nsubj	7
+leva	VERB	levar	acl:relcl	1157
+ao	ADP	a o	case	32
+burnout	PROPN	Burnout	obj	70759
+derivado	VERB	derivar	acl	12658
+do	ADP	de o	case	8
+ativismo	NOUN	ativismo	nmod	24096
+que	PRON	que	nsubj	7
+é	AUX	ser	cop	14
+algo	PRON	algo	advmod	284
+bastante	ADV	bastante	advmod	393
+real	ADJ	real	acl:relcl	688
+
+E	CCONJ	e	cc	79
+há	VERB	haver	ROOT	114
+muitas	DET	muito	det	245
+pessoas	NOUN	pessoa	obj	87
+amigas	ADJ	amig	amod	4151
+que	PRON	que	nsubj	7
+tiveram	VERB	ter	acl:relcl	1438
+de	SCONJ	de	mark	2
+se	PRON	se	expl	24
+afastar	VERB	afastar	xcomp	6732
+durante	ADP	durante	case	151
+uns	DET	um	det	860
+tempos	NOUN	tempo	obl	925
+dos	ADP	de o	case	30
+ativismos	NOUN	ativismo	nmod	200480
+por	ADP	por	case	22
+causa	NOUN	causa	nmod	498
+disso	PRON	de isso	nmod	273
+
+Então	ADV	então	advmod	591
+diria	VERB	dizer	ROOT	6085
+que	SCONJ	que	mark	7
+este	PRON	este	nsubj	83
+é	AUX	ser	cop	14
+um	NUM	um	ccomp	13
+dos	ADP	de o	case	30
+desafios	NOUN	desafio	nmod	1977
+é	AUX	ser	cop	14
+conseguirmos	VERB	conseguir	ccomp	19906
+lidar	VERB	lidar	xcomp	2556
+connosco	NOUN	connosco	obj	11527
+como	ADP	como	case	29
+ativistas	NOUN	ativista	xcomp	14323
+mas	CCONJ	mas	cc	44
+também	ADV	também	advmod	48
+com	ADP	com	case	12
+as	DET	o	det	23
+outras	DET	outro	det	158
+pessoas	NOUN	pessoa	conj	87
+companheiras	NOUN	companheira	conj	28693
+com	ADP	com	case	12
+quem	PRON	quem	obl	129
+estamos	VERB	estar	conj	655
+a	SCONJ	a	mark	5
+tentar	VERB	tentar	xcomp	969
+construir	VERB	construir	xcomp	1859
+algo	PRON	algo	obj	284
+e	CCONJ	e	cc	4
+pensar	VERB	pensar	conj	832
+num	ADP	em um	case	270
+futuro	NOUN	futuro	obl	732
+melhor	ADJ	bom	amod	118
+
+Em	ADP	em	case	76
+termos	NOUN	termos	obl	719
+de	ADP	de	case	2
+fatores	NOUN	fator	nmod	1600
+externos	ADJ	externo	amod	5812
+acho	VERB	achar	ROOT	697
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+mesmo	ADV	mesmo	advmod	66
+aquele	DET	aquele	det	677
+confronto	NOUN	confronto	ccomp	4546
+direto	ADJ	direto	amod	1838
+
+Um	DET	um	det	174
+exemplo	NOUN	exemplo	nsubj	228
+concreto	ADJ	concreto	amod	3768
+que	PRON	que	nsubj	7
+me	PRON	eu	iobj	86
+vem	VERB	vir	acl:relcl	347
+à	ADP	a o	case	43
+cabeça	NOUN	cabeça	obl	699
+foi	AUX	ser	cop	35
+uma	DET	um	det	15
+contramanifestação	NOUN	contramanifestação	ROOT	18446744073709551615
+que	PRON	que	nsubj	7
+fizemos	VERB	fizemos	acl:relcl	4172
+em	ADP	em	case	10
+Guimarães	PROPN	LOC	obl	4549
+
+Houve	VERB	Houve	ROOT	5768
+uma	DET	um	det	15
+manifestação	NOUN	manifestação	obj	3524
+do	ADP	de o	case	8
+grupo	NOUN	grupo	nmod	248
+fascista	ADJ	fascista	amod	18804
+1143	NUM	1143	appos	120825
+e	CCONJ	e	cc	4
+foi	VERB	ser	conj	35
+daqueles	ADP	de aquele	case	2591
+momentos	NOUN	momento	obl	819
+em	ADP	em	case	10
+que	PRON	que	obl	7
+te	PRON	te	nsubj	398
+sentes	NOUN	sente	acl:relcl	45899
+mesmo	ADV	mesmo	advmod	66
+desamparada	VERB	desamparar	xcomp	79024
+
+Onde	ADV	onde	obl	3308
+tens	VERB	tens	ROOT	6661
+agentes	NOUN	agente	obj	1924
+policiais	ADJ	policial	amod	1982
+a	SCONJ	a	mark	5
+apontar	VERB	apontar	acl	7799
+a	DET	o	det	5
+arma	NOUN	arma	obj	2765
+para	ADP	para	case	11
+nós	PRON	nós	obl	237
+para	ADP	para	case	11
+pessoas	NOUN	pessoa	obl	87
+ativistas	ADJ	ativista	amod	14323
+que	PRON	que	nsubj	7
+estavam	AUX	estar	acl:relcl	789
+ali	ADV	ali	advmod	1000
+na	ADP	em o	case	20
+paz	NOUN	paz	obl	1422
+só	ADV	só	advmod	96
+a	SCONJ	a	mark	5
+tocar	VERB	tocar	advcl	2903
+música	NOUN	música	obj	384
+a	SCONJ	a	mark	5
+cantar	VERB	cantar	advcl	4982
+a	DET	o	det	5
+Grândola Vila Morena	PROPN	MISC	obj	500013
+mas	CCONJ	mas	cc	44
+é	VERB	ser	conj	14
+para	ADP	para	case	11
+nós	PRON	nós	obl	237
+que	PRON	que	nsubj	7
+se	PRON	se	expl	24
+viram	VERB	ver	ccomp	5465
+
+Isso	PRON	isso	nsubj	435
+foi	AUX	ser	cop	35
+um	DET	um	det	13
+choque	NOUN	choque	ROOT	5709
+de	ADP	de	case	2
+realidade	NOUN	realidade	nmod	701
+bastante	ADV	bastante	advmod	393
+forte	ADJ	forte	amod	619
+
+Por	ADP	por	case	156
+isso	PRON	isso	obl	70
+acho	VERB	achar	ROOT	697
+que	SCONJ	que	mark	7
+ser	AUX	ser	cop	36
+ativista	ADJ	ativista	ccomp	15177
+na	ADP	em o	case	20
+fase	NOUN	fase	obl	694
+em	ADP	em	case	10
+que	PRON	que	obl	7
+estamos	AUX	estar	acl:relcl	655
+é	AUX	ser	cop	14
+mais	ADV	mais	advmod	25
+importante	ADJ	importante	ccomp	241
+que	SCONJ	que	mark	7
+nunca	ADV	nunca	advmod	271
+
+E	CCONJ	e	cc	79
+estamos	AUX	estar	cop	655
+numa	ADP	em um	case	300
+época	NOUN	época	ROOT	471
+de	ADP	de	case	2
+viragem	NOUN	viragem	nmod	36201
+
+É	AUX	ser	cop	88
+mesmo	ADV	mesmo	advmod	66
+importante	ADJ	importante	ROOT	241
+estarmos	AUX	estar	cop	11302
+unidas	ADJ	unido	csubj	18888
+e	CCONJ	e	cc	4
+quantas	DET	quantas	nsubj	5249
+mais	ADV	mais	advmod	25
+formos	VERB	formos	csubj	18985
+mais	ADV	mais	det	25
+força	NOUN	força	nsubj	583
+temos	VERB	ter	conj	375
+contra	ADP	contra	case	172
+estas	DET	este	det	1003
+pessoas	NOUN	pessoa	obj	87
+
+Como	ADV	como	advmod	198
+é	AUX	ser	discourse	14
+que	SCONJ	que	fixed	7
+tu	PROPN	tu	nsubj	2642
+vês	VERB	vês	ROOT	36583
+o	DET	o	det	6
+futuro	NOUN	futuro	obj	732
+destas	ADP	de este	case	2310
+causas	NOUN	causa	nmod	2842
+
+É	AUX	ser	discourse	88
+assim	ADV	assim	fixed	117
+eu	PRON	eu	nsubj	63
+gosto	VERB	gostar	ROOT	828
+de	SCONJ	de	mark	2
+pensar	VERB	pensar	xcomp	832
+que	SCONJ	que	mark	7
+às	ADP	a o	case	105
+vezes	NOUN	vez	nmod	179
+sou	AUX	ser	cop	525
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	ccomp	13872
+utópica	ADJ	utópico	amod	56200
+
+Sou	AUX	ser	cop	1829
+bastante	ADV	bastante	advmod	393
+pessimista	ADJ	pessimista	ROOT	25862
+não	ADV	não	advmod	21
+diria	VERB	dir	parataxis	6085
+pessimista	ADJ	pessimista	xcomp	25862
+pessimista	ADJ	pessimista	conj	25862
+mas	CCONJ	mas	cc	44
+realista	ADJ	realista	conj	10603
+
+Quando	SCONJ	quando	mark	259
+toca	VERB	tocar	advcl	5073
+ao	ADP	a o	case	32
+ativismo	NOUN	ativismo	obj	24096
+eu	PRON	eu	nsubj	63
+gostava	VERB	gostar	ROOT	5149
+de	SCONJ	de	mark	2
+pensar	VERB	pensar	xcomp	832
+que	SCONJ	que	mark	7
+daqui	ADV	de aqui	advmod	3099
+por	ADP	por	case	22
+uns	DET	um	det	860
+anos	NOUN	ano	obl	64
+ou	CCONJ	ou	cc	33
+num	ADP	em um	case	270
+futuro	NOUN	futuro	conj	732
+muito	ADV	muito	advmod	50
+próximo	ADJ	próximo	amod	430
+fosse	AUX	ser	cop	654
+cada	NOUN	cada	det	104
+vez	ADP	vez	case	108
+mais	ADV	mais	advmod	25
+unânime	ADJ	unânime	ccomp	14713
+que	SCONJ	que	mark	7
+o	DET	o	det	6
+ativismo	NOUN	ativismo	nsubj	24096
+é	AUX	ser	cop	14
+essencial	ADJ	essencial	ccomp	1849
+para	SCONJ	para	mark	11
+evoluirmos	VERB	evoluir	advcl	123791
+como	ADP	como	case	29
+sociedade	NOUN	sociedade	xcomp	424
+evoluirmos	VERB	evoluir	advcl	123791
+como	ADP	como	case	29
+pessoas	NOUN	pessoa	xcomp	87
+e	CCONJ	e	cc	4
+conseguirmos	VERB	conseguir	conj	19906
+construir	VERB	construir	xcomp	1859
+ou	CCONJ	ou	cc	33
+imaginar	VERB	imaginar	conj	3777
+um	DET	um	det	13
+futuro	NOUN	futuro	amod	732
+diferente	ADJ	diferente	amod	606
+daquilo	PRON	de aquilo	obj	5512
+que	PRON	que	nsubj:pass	7
+nos	PRON	nós	nsubj:pass	53
+é	AUX	ser	aux:pass	14
+apresentado	VERB	apresentar	acl:relcl	1873
+hoje	ADV	hoje	advmod	163
+em	ADP	em	case	10
+dia	NOUN	dia	obl	67
+
+Então	ADV	então	advmod	591
+eu	PRON	eu	nsubj	63
+quero	VERB	querer	ROOT	868
+acreditar	VERB	acreditar	xcomp	2705
+que	SCONJ	que	mark	7
+como	SCONJ	como	mark	29
+fizemos	VERB	fizemos	ccomp	4172
+um	DET	um	det	13
+25 de Abril	NUM	ORG	obj	500014
+ou	CCONJ	ou	cc	33
+como	ADV	como	advmod	29
+fizemos	VERB	fizemos	conj	4172
+outras	DET	outro	det	158
+revoluções	NOUN	revolução	obj	21235
+um	DET	um	nsubj	13
+pouco	PRON	pouco	fixed	182
+por	ADP	por	case	22
+todo	DET	todo	det	131
+o	DET	o	det	6
+mundo	NOUN	mundo	nmod	120
+que	PRON	que	fixed	7
+se	SCONJ	se	mark	24
+calhar	VERB	calhar	fixed	13459
+é	AUX	ser	cop	14
+a	ADP	a	case	5
+partir	VERB	partir	dep	194
+desta	ADP	de este	case	261
+união	NOUN	união	nmod	2880
+coletiva	ADJ	coletivo	amod	3550
+desta	ADP	de este	case	261
+união	NOUN	união	obl	2880
+popular	ADJ	popular	amod	1388
+desta	ADP	de este	case	261
+resistência	NOUN	resistência	nmod	1678
+que	PRON	que	nsubj	7
+vamos	AUX	ir	aux	692
+conseguir	VERB	conseguir	ccomp	850
+virar	VERB	virar	xcomp	4624
+as	DET	o	det	23
+coisas	NOUN	coisa	obj	269
+
+E	CCONJ	e	cc	79
+eu	PRON	eu	nsubj	63
+quero	VERB	querer	ROOT	868
+acreditar	VERB	acreditar	xcomp	2705
+que	SCONJ	que	mark	7
+ser	AUX	ser	cop	36
+ativista	ADJ	ativista	ccomp	15177
+daqui	ADV	de aqui	advmod	3099
+por	ADP	por	case	22
+uns	DET	um	det	860
+tempos	NOUN	tempo	obl	925
+seja	AUX	ser	cop	126
+algo	PRON	algo	ccomp	284
+que	SCONJ	que	mark	7
+toda	DET	todo	det	199
+a	DET	o	det	5
+gente	NOUN	gente	nsubj	309
+consiga	VERB	consiga	acl:relcl	5127
+rever-se	VERB	rever se	xcomp	281001
+e	CCONJ	e	cc	4
+consiga	VERB	consiga	conj	5127
+dizer	VERB	dizer	xcomp	318
+com	ADP	com	case	12
+orgulho	NOUN	orgulho	obl	3612
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+ativista	ADJ	ativistar	acl:relcl	15177
+
+E	CCONJ	e	cc	79
+não	ADV	não	advmod	21
+ativista	VERB	ativistar	ROOT	15177
+naquela	ADP	em aquele	case	2969
+conceptualização	NOUN	conceptualização	obl	141809
+que	PRON	que	nsubj	7
+acho	VERB	achar	advcl	697
+que	SCONJ	que	mark	7
+muita	DET	muito	det	414
+gente	NOUN	gente	nsubj	309
+tem	VERB	ter	ccomp	52
+que	PRON	que	nsubj	7
+são	AUX	ser	cop	46
+pessoas	NOUN	pessoa	ccomp	87
+desocupadas	VERB	desocupar	acl	88650
+pessoas	NOUN	pessoa	appos	87
+que	PRON	que	nsubj	7
+não	ADV	não	advmod	21
+trabalham	VERB	trabalhar	acl:relcl	3358
+pessoas	NOUN	pessoa	obj	87
+que	PRON	que	nsubj	7
+são	AUX	ser	cop	46
+meias	ADJ	meia	acl:relcl	9691
+hippies	ADJ	hippies	amod	54633
+e	CCONJ	e	cc	4
+que	PRON	que	nsubj	7
+só	ADV	só	advmod	96
+querem	VERB	querer	conj	1536
+viver	VERB	viver	xcomp	976
+numa	ADP	em um	case	300
+sociedade	NOUN	sociedade	obl	424
+assim	ADV	assim	advmod	117
+meia	NOUN	meia	obl	1999
+distópica	ADJ	distópico	amod	94631
+quando	ADV	quando	advmod	71
+na	ADP	em o	case	20
+verdade	NOUN	verdade	obl	341
+não	ADV	não	advcl	21
+
+As	DET	o	det	111
+pessoas	NOUN	pessoa	nsubj	87
+ativistas	ADJ	ativista	amod	14323
+trabalham	VERB	trabalhar	ROOT	3358
+as	DET	o	det	23
+pessoas	NOUN	pessoa	nsubj	87
+ativistas	ADJ	ativista	amod	14323
+têm	VERB	ter	conj	250
+vidas	NOUN	vida	obj	1898
+próprias	ADJ	próprio	amod	2100
+têm	VERB	ter	conj	250
+famílias	NOUN	família	obj	1275
+têm	VERB	ter	conj	250
+dinâmicas	NOUN	dinâmica	obj	10036
+relacionais	ADJ	relacional	amod	41314
+com	ADP	com	case	12
+qualquer	DET	qualquer	det	133
+outra	DET	outro	det	253
+pessoa	NOUN	pessoa	nmod	244
+e	CCONJ	e	cc	4
+acho	VERB	achar	conj	697
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+de	SCONJ	de	mark	2
+louvar	VERB	louvar	ccomp	27284
+também	ADV	também	advmod	48
+tirarem	VERB	tirar	xcomp	39542
+um	DET	um	det	13
+bocado	NOUN	bocado	obj	11939
+do	ADP	de o	case	8
+seu	DET	seu	det	42
+tempo	NOUN	tempo	nmod	85
+para	SCONJ	para	mark	11
+se	PRON	se	expl	24
+dedicarem	VERB	dedicar	advcl	65130
+a	ADP	a	case	5
+isto	PRON	isto	obj	534
+
+Gostava	VERB	Gostava	ROOT	21711
+que	SCONJ	que	mark	7
+mais	ADV	mais	det	25
+gente	NOUN	gente	nsubj	309
+se	PRON	se	expl	24
+sentisse	VERB	sentisse	ccomp	30975
+não	ADV	não	advmod	21
+é	AUX	ser	cop	14
+bem	ADV	bem	parataxis	69
+na	ADP	em o	case	20
+obrigação	NOUN	obrigação	obl	3478
+mas	CCONJ	mas	cc	44
+tivessem	VERB	ter	conj	6869
+também	ADV	também	advmod	48
+vontade	NOUN	vontade	obj	672
+de	SCONJ	de	mark	2
+se	PRON	se	expl	24
+juntar	VERB	juntar	acl	4861
+principalmente	ADV	principalmente	advmod	442
+em	ADP	em	case	10
+celebrações	NOUN	celebração	obl	14087
+como	ADP	como	case	29
+o	DET	o	det	6
+25 de Abril	NUM	ORG	nmod	500014
+que	PRON	que	nsubj	7
+acho	VERB	achar	advcl	697
+que	SCONJ	que	mark	7
+devia	VERB	dever	ccomp	4618
+haver	VERB	haver	xcomp	1765
+ainda	ADV	ainda	advmod	68
+mais	ADV	mais	advmod	25
+gente	NOUN	gente	obj	309
+a	SCONJ	a	mark	5
+participar	VERB	participar	acl	953
+
+E	CCONJ	e	cc	79
+que	SCONJ	que	mark	7
+conselho	NOUN	conselho	nsubj	3220
+darias	ADJ	daria	amod	349124
+a	ADP	a	case	5
+alguém	PRON	alguém	nmod	560
+que	PRON	que	nsubj	7
+quer	VERB	querer	acl:relcl	302
+começar	VERB	começar	xcomp	861
+a	SCONJ	a	mark	5
+participar	VERB	participar	xcomp	953
+no	ADP	em o	case	16
+ativismo	NOUN	ativismo	obl	24096
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+o	DET	o	det	6
+meu	DET	meu	det	137
+maior	ADJ	grande	amod	134
+conselho	NOUN	conselho	nsubj	3220
+por	ADP	por	case	22
+experiência	NOUN	experiência	obl	404
+própria	ADJ	próprio	amod	390
+é	AUX	ser	cop	14
+mesmo	ADV	mesmo	advmod	66
+tentar	VERB	tentar	ccomp	969
+perceber	VERB	perceber	xcomp	1807
+dentro	ADV	dentro	advmod	234
+dos	ADP	de o	case	30
+circuitos	NOUN	circuito	obl	9768
+diários	ADJ	diário	amod	7407
+que	PRON	que	nsubj	7
+fazes	VERB	faz	acl:relcl	23527
+essas	DET	esse	det	528
+conexões	NOUN	conexão	obj	7063
+
+Ou	CCONJ	Ou	cc	978
+seja	VERB	ser	fixed	126
+se	SCONJ	se	expl	24
+vives	VERB	vives	advcl	80122
+numa	ADP	em um	case	300
+cidade	NOUN	cidade	obl	138
+vamos	AUX	ir	aux	692
+dizer	VERB	dizer	ROOT	318
+o	DET	o	det	6
+Porto	PROPN	LOC	obj	668
+por	ADP	por	cc	22
+exemplo	NOUN	exemplo	fixed	228
+estar	AUX	estar	cop	238
+atento	ADJ	atento	xcomp	4543
+às	ADP	a o	case	105
+redes	NOUN	rede	obl	821
+sociais	ADJ	social	amod	433
+ou	CCONJ	ou	cc	33
+também	ADV	também	advmod	48
+àqueles	DET	àquele	det	9518
+lugares	NOUN	lugar	conj	1179
+que	PRON	que	nsubj	7
+dá	VERB	dar	acl:relcl	382
+para	SCONJ	para	mark	11
+perceber	VERB	perceber	advcl	1807
+que	SCONJ	que	mark	7
+são	AUX	ser	aux:pass	46
+frequentados	VERB	frequentar	ccomp	54768
+por	ADP	por	case	22
+pessoas	NOUN	pessoa	obl:agent	87
+ligadas	VERB	ligar	acl	5148
+ao	ADP	a o	case	32
+ativismo	NOUN	ativismo	obj	24096
+
+Por	ADP	por	cc	156
+exemplo	NOUN	exemplo	fixed	228
+saber	VERB	saber	ROOT	283
+que	SCONJ	que	mark	7
+vai	AUX	ir	aux	101
+haver	VERB	haver	ccomp	1765
+um	DET	um	det	13
+debate	NOUN	debate	obj	1963
+sobre	ADP	sobre	case	55
+a	DET	o	det	5
+Palestina	PROPN	LOC	nmod	13291
+num	ADP	em um	case	270
+café	NOUN	café	obl	1317
+específico	ADJ	específico	amod	2580
+
+Se	SCONJ	se	mark	135
+estivemos	AUX	estivemos	cop	18217
+confortáveis	ADJ	confortável	advcl	6977
+com	ADP	com	case	12
+isso	PRON	isso	obl	70
+é	AUX	ser	cop	14
+tentar	VERB	tentar	ROOT	969
+aparecer	VERB	aparecer	xcomp	2890
+nesses	ADP	em esse	case	3355
+sítios	NOUN	sítio	obl	8911
+porque	SCONJ	porque	mark	128
+muitas	DET	muito	det	245
+vezes	NOUN	vez	obl	179
+é	AUX	ser	cop	14
+o	PRON	o	obj	6
+estarmos	PRON	estarmos	advcl	11302
+in	ADV	in	advmod	931
+loco	ADV	loco	advmod	21020
+nas	ADP	em o	case	78
+atividades	NOUN	atividade	obl	361
+que	PRON	que	nsubj	7
+conseguimos	VERB	conseguir	acl:relcl	3969
+conhecer	VERB	conhecer	xcomp	636
+pessoas	NOUN	pessoa	obj	87
+perceber	VERB	perceber	advcl	1807
+quem	PRON	quem	nsubj	129
+é	AUX	ser	cop	14
+que	SCONJ	que	fixed	7
+está	AUX	estar	cop	58
+na	ADP	em o	case	20
+organização	NOUN	organização	ccomp	702
+dos	ADP	de o	case	30
+coletivos	NOUN	coletivo	nmod	8823
+ou	CCONJ	ou	cc	33
+dos	ADP	de o	case	30
+protestos	NOUN	protesto	conj	7355
+das	ADP	de o	case	34
+atividades	NOUN	atividade	nmod	361
+das	ADP	de o	case	34
+assembleias	NOUN	assembleia	nmod	20000
+populares	ADJ	popular	amod	2617
+ou	CCONJ	ou	cc	33
+o	PRON	o	conj	6
+que	PRON	que	nsubj	7
+quer	VERB	querer	acl:relcl	302
+que	SCONJ	que	mark	7
+seja	VERB	ser	ccomp	126
+
+Pelo	ADP	por o	case	1708
+menos	NOUN	menos	nmod	165
+a	DET	o	case	5
+minha	DET	meu	det	132
+experiência	NOUN	experiência	ROOT	404
+é	AUX	ser	cop	14
+mesmo	ADV	mesmo	advmod	66
+no	ADP	em o	case	16
+contacto	NOUN	contacto	nmod	5248
+presencial	ADJ	presencial	amod	9107
+que	PRON	que	nsubj	7
+conseguimos	VERB	conseguir	acl:relcl	3969
+conhecer	VERB	conhecer	xcomp	636
+as	DET	o	det	23
+pessoas	NOUN	pessoa	obj	87
+e	CCONJ	e	cc	4
+que	PRON	que	nsubj	7
+começamos	VERB	começar	conj	8179
+a	SCONJ	a	mark	5
+envolver-nos	VERB	envolver nós	xcomp	288639
+devagarinho	NOUN	devagarinho	conj	43458
+nas	ADP	em o	case	78
+atividades	NOUN	atividade	obl	361
+
+E	CCONJ	e	cc	79
+lá	ADV	lá	advmod	258
+está	AUX	estar	aux	58
+se	SCONJ	se	mark	24
+estivermos	VERB	estivermos	ROOT	25196
+a	SCONJ	a	mark	5
+estudar	VERB	estudar	xcomp	2018
+numa	ADP	em um	case	300
+universidade	NOUN	universidade	obl	2894
+certamente	ADV	certamente	advmod	1971
+lá	ADV	lá	advmod	258
+também	ADV	também	advmod	48
+há	VERB	haver	advcl	114
+coletivos	NOUN	coletivo	obj	8823
+e	CCONJ	e	cc	4
+pessoas	NOUN	pessoa	conj	87
+a	SCONJ	a	mark	5
+tentar	VERB	tentar	advcl	969
+organizar	VERB	organizar	xcomp	3037
+coisas	NOUN	coisa	obj	269
+
+Por	ADP	por	case	156
+isso	PRON	isso	obl	70
+acho	VERB	achar	ROOT	697
+que	SCONJ	que	mark	7
+é	AUX	ser	cop	14
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	ccomp	13872
+por	ADP	por	case	22
+aí	ADV	aí	advmod	669
+tentar	VERB	tentar	ccomp	969
+dentro	ADV	dentro	advmod	234
+das	ADP	de o	case	34
+nossas	DET	nosso	det	659
+comunidades	NOUN	comunidade	obl	2413
+dos	ADP	de o	case	30
+sítios	NOUN	sítio	obl	8911
+mais	ADV	mais	advmod	25
+próximos	ADJ	próximo	amod	1458
+de	ADP	de	case	2
+nós	PRON	nós	obl	237
+construir	VERB	construir	xcomp	1859
+outras	DET	outro	det	158
+comunidades	NOUN	comunidade	obj	2413
+ou	CCONJ	ou	cc	33
+construir	VERB	construir	conj	1859
+outros	DET	outro	det	107
+movimentos	NOUN	movimento	obj	1730
+
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+essa	PRON	esse	nsubj	141
+é	AUX	ser	cop	14
+a	DET	o	det	5
+minha	DET	meu	det	132
+recomendação	NOUN	recomendação	ccomp	6279
+
+Agora	ADV	agora	advmod	691
+para	SCONJ	para	mark	11
+encerrar	VERB	encerrar	advcl	7993
+não	ADV	não	advmod	21
+sei	VERB	saber	ROOT	558
+se	SCONJ	se	expl	24
+existe	VERB	existir	ccomp	529
+se	SCONJ	se	mark	24
+há	VERB	haver	advcl	114
+algo	PRON	algo	obj	284
+mais	ADV	mais	advmod	25
+que	SCONJ	que	fixed	7
+gostarias	NOUN	gostaria	obj	116780
+de	SCONJ	de	mark	2
+partilhar	VERB	partilhar	acl	6768
+que	PRON	que	nsubj	7
+não	ADV	não	advmod	21
+tínhamos	AUX	ter	aux	5737
+abordado	VERB	abordar	acl:relcl	8983
+ou	CCONJ	ou	cc	33
+assim	ADV	assim	conj	117
+
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+não	ADV	não	advmod	21
+acho	VERB	achar	ccomp	697
+que	SCONJ	que	mark	7
+falei	VERB	falar	ccomp	4533
+um	DET	um	det	13
+bocadinho	NOUN	bocadinho	obj	13872
+de	ADP	de	case	2
+tudo	PRON	tudo	nmod	109
+
+Acho	VERB	achar	ROOT	1735
+que	SCONJ	que	mark	7
+conseguimos	VERB	conseguir	ccomp	3969
+ir	VERB	ir	xcomp	439
+aos	ADP	a o	case	81
+pontinhos	NOUN	pontinho	obl	43005
+todos	PRON	todo	det	75
+
+Acabamos	VERB	Acabamos	ROOT	34493
+então	ADV	então	advmod	196
+por	ADP	por	case	22
+aqui	ADV	aqui	advmod	140
+
+Obrigada!	INTJ	LOC	ROOT	500015
+
