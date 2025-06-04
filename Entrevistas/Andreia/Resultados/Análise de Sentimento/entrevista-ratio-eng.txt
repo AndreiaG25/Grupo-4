@@ -287,7 +287,7 @@ MOST NEGATIVE WORDS:
 ============================================================
 
 PARAGRAPH 12: POSITIVE
-Preview: Lastly, is there anything else you’d like to share...
+Preview: Lastly, is there anything else youâ€™d like to share...
 Overall Polarity: 0.328505
 Average Word Polarity: 0.286923
 
