@@ -1,11 +1,11 @@
-=== AN¡LISE DETALHADA DE SENTIMENTO ===
+=== AN√ÅLISE DETALHADA DE SENTIMENTO ===
 
-PAR¡GRAFO 1: NEGATIVE
-Preview: Ol·, podes-te apresentar brevemente? Dizer qual È ...
+PAR√ÅGRAFO 1: NEGATIVE
+Preview: Ol√°, podes-te apresentar brevemente? Dizer qual √© ...
 Polaridade Geral: -0.140182
-Polaridade MÈdia das Palavras: 0.123612
+Polaridade M√©dia das Palavras: 0.123612
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 16
   Palavras positivas: 8 (50.0%)
   Palavras negativas: 2 (12.5%)
@@ -19,17 +19,17 @@ PALAVRAS MAIS POSITIVAS:
   especializar (VERB): 0.333443
 
 PALAVRAS MAIS NEGATIVAS:
-  violÍncia (NOUN): -0.355514
+  viol√™ncia (NOUN): -0.355514
   mora (NOUN): -0.216591
 
 ============================================================
 
-PAR¡GRAFO 2: NEUTRAL
+PAR√ÅGRAFO 2: NEUTRAL
 Preview: Esta entrevista vai-se focar, basicamente, na tua ...
 Polaridade Geral: 0.078272
-Polaridade MÈdia das Palavras: 0.130161
+Polaridade M√©dia das Palavras: 0.130161
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 75
   Palavras positivas: 36 (48.0%)
   Palavras negativas: 10 (13.3%)
@@ -51,12 +51,12 @@ PALAVRAS MAIS NEGATIVAS:
 
 ============================================================
 
-PAR¡GRAFO 3: POSITIVE
-Preview: A tua famÌlia ou amigos influenciaram esta decis„o...
+PAR√ÅGRAFO 3: POSITIVE
+Preview: A tua fam√≠lia ou amigos influenciaram esta decis√£o...
 Polaridade Geral: 0.240890
-Polaridade MÈdia das Palavras: 0.175440
+Polaridade M√©dia das Palavras: 0.175440
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 52
   Palavras positivas: 26 (50.0%)
   Palavras negativas: 8 (15.4%)
@@ -74,16 +74,16 @@ PALAVRAS MAIS NEGATIVAS:
   acabar (VERB): -0.412825
   envolver se (VERB): -0.181171
   principalmente (ADV): -0.164774
-  mudanÁa (NOUN): -0.159317
+  mudan√ßa (NOUN): -0.159317
 
 ============================================================
 
-PAR¡GRAFO 4: NEUTRAL
-Preview: Relativamente, agora, ‡s organizaÁıes e ‡s causas,...
+PAR√ÅGRAFO 4: NEUTRAL
+Preview: Relativamente, agora, √†s organiza√ß√µes e √†s causas,...
 Polaridade Geral: 0.081008
-Polaridade MÈdia das Palavras: 0.237930
+Polaridade M√©dia das Palavras: 0.237930
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 29
   Palavras positivas: 20 (69.0%)
   Palavras negativas: 3 (10.3%)
@@ -99,16 +99,16 @@ PALAVRAS MAIS POSITIVAS:
 PALAVRAS MAIS NEGATIVAS:
   mudar (VERB): -0.348004
   maioritariamente (ADV): -0.246471
-  mudanÁa (NOUN): -0.159317
+  mudan√ßa (NOUN): -0.159317
 
 ============================================================
 
-PAR¡GRAFO 5: NEUTRAL
-Preview: E como È que vieste a ter conhecimento destas asso...
+PAR√ÅGRAFO 5: NEUTRAL
+Preview: E como √© que vieste a ter conhecimento destas asso...
 Polaridade Geral: 0.074819
-Polaridade MÈdia das Palavras: 0.178488
+Polaridade M√©dia das Palavras: 0.178488
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 116
   Palavras positivas: 53 (45.7%)
   Palavras negativas: 11 (9.5%)
@@ -118,7 +118,7 @@ PALAVRAS MAIS POSITIVAS:
   importante (ADJ): 0.684677
   valente (ADJ): 0.652238
   preciso (ADJ): 0.574567
-  f·cil (ADJ): 0.555047
+  f√°cil (ADJ): 0.555047
   envolvir (VERB): 0.554234
 
 PALAVRAS MAIS NEGATIVAS:
@@ -130,12 +130,12 @@ PALAVRAS MAIS NEGATIVAS:
 
 ============================================================
 
-PAR¡GRAFO 6: POSITIVE
-Preview: E como È que costuma ser o teu dia-a-dia dentro de...
+PAR√ÅGRAFO 6: POSITIVE
+Preview: E como √© que costuma ser o teu dia-a-dia dentro de...
 Polaridade Geral: 0.303478
-Polaridade MÈdia das Palavras: 0.248779
+Polaridade M√©dia das Palavras: 0.248779
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 61
   Palavras positivas: 42 (68.9%)
   Palavras negativas: 6 (9.8%)
@@ -157,12 +157,12 @@ PALAVRAS MAIS NEGATIVAS:
 
 ============================================================
 
-PAR¡GRAFO 7: POSITIVE
-Preview: Existe alguma experiÍncia marcante que tenhas vivi...
+PAR√ÅGRAFO 7: POSITIVE
+Preview: Existe alguma experi√™ncia marcante que tenhas vivi...
 Polaridade Geral: 0.428380
-Polaridade MÈdia das Palavras: 0.168361
+Polaridade M√©dia das Palavras: 0.168361
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 93
   Palavras positivas: 47 (50.5%)
   Palavras negativas: 10 (10.8%)
@@ -184,12 +184,12 @@ PALAVRAS MAIS NEGATIVAS:
 
 ============================================================
 
-PAR¡GRAFO 8: POSITIVE
-Preview: NÛs vamos ent„o passar ‡ prÛxima pergunta, que È e...
+PAR√ÅGRAFO 8: POSITIVE
+Preview: N√≥s vamos ent√£o passar √† pr√≥xima pergunta, que √© e...
 Polaridade Geral: 0.296355
-Polaridade MÈdia das Palavras: 0.154538
+Polaridade M√©dia das Palavras: 0.154538
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 70
   Palavras positivas: 35 (50.0%)
   Palavras negativas: 10 (14.3%)
@@ -200,23 +200,23 @@ PALAVRAS MAIS POSITIVAS:
   realmente (ADV): 0.666484
   termos (NOUN): 0.520884
   lutar (VERB): 0.514741
-  resistÍncia (NOUN): 0.501667
+  resist√™ncia (NOUN): 0.501667
 
 PALAVRAS MAIS NEGATIVAS:
   andar (VERB): -0.558270
-  fr·gil (ADJ): -0.550487
+  fr√°gil (ADJ): -0.550487
   fui-lhe (VERB): -0.475496
   protesto (NOUN): -0.373865
   antiguinho (ADJ): -0.287012
 
 ============================================================
 
-PAR¡GRAFO 9: NEGATIVE
-Preview: Relativamente agora a certos desafios, j· enfrenta...
+PAR√ÅGRAFO 9: NEGATIVE
+Preview: Relativamente agora a certos desafios, j√° enfrenta...
 Polaridade Geral: -0.114976
-Polaridade MÈdia das Palavras: 0.168488
+Polaridade M√©dia das Palavras: 0.168488
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 128
   Palavras positivas: 65 (50.8%)
   Palavras negativas: 20 (15.6%)
@@ -227,7 +227,7 @@ PALAVRAS MAIS POSITIVAS:
   importante (ADJ): 0.684677
   desafio (NOUN): 0.677472
   bom (ADJ): 0.648155
-  prÛprio (ADJ): 0.602295
+  pr√≥prio (ADJ): 0.602295
 
 PALAVRAS MAIS NEGATIVAS:
   desgastante (ADJ): -0.719477
@@ -238,12 +238,12 @@ PALAVRAS MAIS NEGATIVAS:
 
 ============================================================
 
-PAR¡GRAFO 10: NEGATIVE
-Preview: Como È que tu vÍs o futuro destas causas? … assim,...
+PAR√ÅGRAFO 10: NEGATIVE
+Preview: Como √© que tu v√™s o futuro destas causas? √â assim,...
 Polaridade Geral: -0.131355
-Polaridade MÈdia das Palavras: 0.206909
+Polaridade M√©dia das Palavras: 0.206909
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 105
   Palavras positivas: 57 (54.3%)
   Palavras negativas: 11 (10.5%)
@@ -251,7 +251,7 @@ ESTATÕSTICAS DE PALAVRAS:
 
 PALAVRAS MAIS POSITIVAS:
   consiga (VERB): 0.726152
-  prÛprio (ADJ): 0.602295
+  pr√≥prio (ADJ): 0.602295
   essencial (ADJ): 0.599790
   gostar (VERB): 0.559077
   conseguir (VERB): 0.550704
@@ -265,20 +265,20 @@ PALAVRAS MAIS NEGATIVAS:
 
 ============================================================
 
-PAR¡GRAFO 11: POSITIVE
-Preview: E que conselho darias a alguÈm que quer comeÁar a ...
+PAR√ÅGRAFO 11: POSITIVE
+Preview: E que conselho darias a algu√©m que quer come√ßar a ...
 Polaridade Geral: 0.387692
-Polaridade MÈdia das Palavras: 0.276422
+Polaridade M√©dia das Palavras: 0.276422
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 71
   Palavras positivas: 43 (60.6%)
   Palavras negativas: 4 (5.6%)
   Palavras neutras: 5 (7.0%)
 
 PALAVRAS MAIS POSITIVAS:
-  prÛprio (ADJ): 0.602295
-  recomendaÁ„o (NOUN): 0.579825
+  pr√≥prio (ADJ): 0.602295
+  recomenda√ß√£o (NOUN): 0.579825
   atento (ADJ): 0.555900
   conseguir (VERB): 0.550704
   construir (VERB): 0.521259
@@ -291,12 +291,12 @@ PALAVRAS MAIS NEGATIVAS:
 
 ============================================================
 
-PAR¡GRAFO 12: POSITIVE
-Preview: Agora para encerrar, n„o sei se existe, se h· algo...
+PAR√ÅGRAFO 12: POSITIVE
+Preview: Agora para encerrar, n√£o sei se existe, se h√° algo...
 Polaridade Geral: 0.124652
-Polaridade MÈdia das Palavras: 0.025107
+Polaridade M√©dia das Palavras: 0.025107
 
-ESTATÕSTICAS DE PALAVRAS:
+ESTAT√çSTICAS DE PALAVRAS:
   Total de palavras analisadas: 13
   Palavras positivas: 4 (30.8%)
   Palavras negativas: 3 (23.1%)
