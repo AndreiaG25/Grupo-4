@@ -1,0 +1,35 @@
+import re
+from collections import Counter
+
+def ler_texto(caminho_ficheiro):
+    with open(caminho_ficheiro, 'r', encoding='utf-8') as f:
+        texto = f.read()
+    return texto
+
+def limpar_texto(texto):
+    # Converter para minúsculas
+    texto = texto.lower()
+    # Remover pontuação e caracteres especiais (manter só letras e números)
+    texto = re.sub(r'[^a-záàâãéèêíïóôõöúçñ0-9\s]', '', texto)
+    return texto
+
+def contar_palavras(texto_limpo):
+    palavras = texto_limpo.split()
+    frequencia = Counter(palavras)
+    return frequencia
+
+def salvar_frequencia(frequencia, caminho_saida):
+    with open(caminho_saida, 'w', encoding='utf-8') as f:
+        for palavra, freq in frequencia.most_common():
+            f.write(f"{palavra}\t{freq}\n")
+
+if __name__ == "__main__":
+    caminho_entrada = "entrevista_vitoria.txt"  # muda para o nome do teu ficheiro de texto
+    caminho_saida = "frequencia_palavras.txt"
+
+    texto = ler_texto(caminho_entrada)
+    texto_limpo = limpar_texto(texto)
+    frequencia = contar_palavras(texto_limpo)
+    salvar_frequencia(frequencia, caminho_saida)
+
+    print(f"Análise de frequência concluída! Resultado salvo em {caminho_saida}")

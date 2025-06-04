@@ -1,0 +1,73 @@
+Parágrafo,Texto,Sentimento,Positivo,Neutro,Negativo
+1,Entrevistadora: Carolina Motta PG56348,NEU,0.04059834033250809,0.9423243403434753,0.017077362164855003
+2,Entrevistada: Vitória Ramos,NEU,0.045116208493709564,0.9360763430595398,0.018807431682944298
+3,Descrição:,NEU,0.09494216740131378,0.8696847558021545,0.035373058170080185
+4,"Entrevista sobre a nossa história de amor, com perguntas e respostas que revelam momentos importantes do nosso relacionamento à distância.",NEU,0.19391728937625885,0.7927709221839905,0.013311748392879963
+5,Unidade Curricular:,NEU,0.04140916094183922,0.942993700504303,0.0155971460044384
+6,Análise e Visualização de Dados – Mestrado em Humanidades Digitais,NEU,0.03783011436462402,0.9457211494445801,0.016448689624667168
+7,Um Oceano de Amor,POS,0.6498209834098816,0.3360697031021118,0.014109289273619652
+8,"Entrevistadora: Oi, boa noite.",NEU,0.050502847880125046,0.920070230960846,0.029426995664834976
+9,"Entrevistada: Oi, boa noite.",NEU,0.05945534259080887,0.9188591837882996,0.02168552577495575
+10,"Entrevistadora: Eu te chamei aqui pra fazer uma entrevista com você, cujo tema é a nossa história de amor. Pra isso, eu queria pedir inicialmente pra você se apresentar.",NEU,0.08924801647663116,0.8780639171600342,0.032688092440366745
+11,"Entrevistada: Meu nome é Vitória Ramos, tenho 26 anos, moro em Portugal, mas sou brasileira e estou aqui já há três anos. E sou sua namorada.",NEU,0.12263642996549606,0.8573682308197021,0.01999536342918873
+12,"Entrevistadora: Perfeito, Vitória. Sobre a nossa história, você se lembra da primeira mensagem ou conversa que tivemos pela internet?",POS,0.8893095254898071,0.10410239547491074,0.0065880147740244865
+13,"Entrevistada: Sim, lembro. Foi pelo Instagram, depois que eu comentei uma foto sua. Passados uns dias, você me mandou uma cantada e depois disso, começamos a conversar pelo Instagram, depois eu pedi seu número e começamos a trocar mensagens também pelo WhatsApp.",NEU,0.109306700527668,0.847337543964386,0.04335569962859154
+14,"Entrevistadora: E nesse começo, o que te chamou atenção em mim?",NEU,0.035392146557569504,0.94194096326828,0.02266683243215084
+15,"Entrevistada: O que me chamou atenção em você foi sua atenciosidade. A gente estava sempre trocando mensagens, dividindo tudo e compartilhando momentos, mesmo de longe. Você sempre se fez presente nisso e foi uma das coisas que mais me chamou atenção em você.",POS,0.9094091057777405,0.08226883411407471,0.008322067558765411
+16,Entrevistadora: Você já imaginava que algo sério poderia surgir?,NEU,0.027941042557358742,0.9609659314155579,0.011093090288341045
+17,"Entrevistada: Eu não imaginava que fosse dar tão certo, até pela distância que tinha e tudo, mas conforme íamos conversando, isso foi ficando bem claro que podia se tornar algo a mais.",NEU,0.30199480056762695,0.6310402154922485,0.06696504354476929
+18,Entrevistadora: Quem foi a primeira pessoa que você contou que estava conversando comigo naquela época e o que ela disse?,NEU,0.025399785488843918,0.9511857628822327,0.02341446839272976
+19,Entrevistada: A primeira pessoa...,NEU,0.08321065455675125,0.8705372214317322,0.04625217989087105
+20,"Entrevistadora: Está tudo bem, pode continuar.",POS,0.9182651042938232,0.06825792789459229,0.013476965017616749
+21,"Entrevistada: A primeira pessoa que eu contei de você foi minha prima, que mora na Califórnia, nos Estados Unidos. A gente chegou a comentar porque as primeiras fotos que eu vi sua, , curtir, quando já rolava uma intenção, foi quando você estava na Califórnia. E depois disso, ela... que a gente comentou tudo, ela falou que ela ficaria muito feliz, se desse muito certo, até mesmo pelo fato de achar que você estava lá e ia ficar também mais próxima dela.",NEU,0.1825428009033203,0.7589830160140991,0.058474235236644745
+22,Entrevistadora: Qual foi o momento em que você percebeu que queria mesmo investir nesse sentimento?,NEU,0.03755372017621994,0.9349614977836609,0.02748488076031208
+23,"Entrevistada: Mesmo com o oceano entre a gente. Foi depois do primeiro contato que tivemos presencialmente. Tudo fluiu muito natural, como se já nos conhecíamos. E compartilhar cada momento, estar presente me fez perceber que queria viver mais daquilo com você.",POS,0.7968127727508545,0.18147197365760803,0.021715283393859863
+24,"Entrevistadora: E por falar no nosso encontro presencial, o que você mais esperava desse nosso primeiro encontro?",NEU,0.042661190032958984,0.9295295476913452,0.027809306979179382
+25,"Entrevistada: Eu esperava que fosse como nas nossas conversas. Que tivéssemos uma boa sintonia, que você fosse realmente você, e que da mesma forma que eu já tinha um sentimento, que você sentisse o mesmo ao me ver.",NEU,0.33345451951026917,0.5964736938476562,0.07007172703742981
+26,"Entrevistadora: Você ficou nervosa antes do nosso primeiro encontro? E quando você me viu pela primeira vez, o que você sentiu?",NEU,0.016981322318315506,0.9385108351707458,0.04450778663158417
+27,"Entrevistada: Eu fiquei muito nervosa e ansiosa. Ainda mais quando eu saí do desembarque, você estava me esperando na porta errada. Por um segundo, achei que não fosse me encontrar, mas depois nos encontramos. E te ver vindo na minha direção foi algo surreal e mágico. A sensação depois disso é que todo o tempo longe valeu a pena. Era uma sensação de paz, tranquilidade, de estar perto de você.",POS,0.8351454138755798,0.12356477230787277,0.041289858520030975
+28,"Entrevistadora: O que você lembra com mais carinho daquele dia, além do momento que a gente se encontrou?",NEU,0.05178432539105415,0.9233375191688538,0.0248782467097044
+29,"Entrevistada: Nesse dia, o momento em que te vi. Mas dos meus dias no Brasil, o momento que eu lembro com mais carinho foi a primeira vez que disse que me amava. Estávamos com seus amigos e família, que são importantes também na sua vida. E isso tornou ainda mais aquele momento significativo pra mim.",POS,0.9403911828994751,0.05204276740550995,0.0075660874135792255
+30,"Entrevistadora: Teve alguma coisa que te surpreendeu em mim, pessoalmente? Seja pro bem ou pro mal?",NEU,0.1070137768983841,0.8482559323310852,0.04473036900162697
+31,"Entrevistada: Não, nada me surpreendeu em você. Seria exatamente como eu esperava.",NEU,0.0683840662240982,0.7714281678199768,0.1601877361536026
+32,"Entrevistadora: Se você pudesse reviver aquele momento em que a gente se encontrou ou os dias que você passou no Brasil, faria algo diferente?",NEU,0.045789167284965515,0.8895558714866638,0.06465490907430649
+33,Entrevistada: Eu não faria nada diferente.,NEU,0.019202781841158867,0.7985050678253174,0.18229207396507263
+34,"Entrevistadora: Como é pra você olhar pra trás pra tudo que a gente viveu, pro relacionamento à distância e hoje saber que hoje eu estou aqui, dividindo o mesmo teto e a vida bem perto de você?",NEU,0.1432306468486786,0.7637348175048828,0.09303451329469681
+35,"Entrevistada: É incrível poder hoje viver essa etapa com você. Fazer parte dos seus dias, estar presente, poder cuidar e ajudar. Ficamos um bom tempo longe e hoje aproveitamos cada minuto que estamos juntas. É incrível acordar e saber que tenho você aqui, não só pra dividir a rotina, mas pra desfrutar da vida. E todos os dias eu agradeço por viver algo tão bom com você.",POS,0.9779323935508728,0.01831207238137722,0.0037555734161287546
+36,"Entrevistadora: Qual foi o momento difícil que passamos juntas e que te mostrou que fomos fortes? Aliás, que somos fortes juntas?",NEU,0.061706122010946274,0.8971228003501892,0.041171032935380936
+37,"Entrevistada: O momento mais difícil que passamos foi o período em que estávamos distantes.  perdíamos muitas coisas importantes como aniversários, momentos especiais e o prazer de estar perto. Mas mesmo com isso, sempre fazíamos questão de se fazer presente, com alguma surpresa, ligações, mensagens, da forma que conseguimos.",POS,0.5747916102409363,0.3635917007923126,0.0616166815161705
+38,"Entrevistadora: Qual hábito ou jeito meu você achou estranho no começo, mas agora já se acostumou e até gosta?",NEU,0.09275234490633011,0.8599205017089844,0.0473271869122982
+39,"Entrevistada: Você tem um jeito peculiar de dormir. Conforme vai se mexendo à noite, o cabelo fica todo bagunçado. E eu, por ter sono leve, às vezes me assustava quando virava pro seu lado. No começo era um pouco assustador, mas com o tempo eu fui me acostumando.",NEU,0.18848305940628052,0.6757566332817078,0.1357603669166565
+40,Entrevistadora: O que mais te faz sentir amada no nosso dia a dia?,NEU,0.2293943464756012,0.7492364645004272,0.02136922813951969
+41,"Entrevistada: O que mais me faz sentir amada no nosso dia a dia é o cuidado que você tem comigo. Não só quando estou doente ou com os nossos afazeres, mas de forma geral. É muito bom saber que tem alguém aqui pra você em todos os momentos, sejam bons ou ruins.",POS,0.9602156281471252,0.03209647908806801,0.007687869947403669
+42,Entrevistadora: O que você mais admira em mim?,NEU,0.033664532005786896,0.9549726843833923,0.011362810619175434
+43,"Entrevistada: Tem diversas coisas que eu acho admirável em você. Uma delas é como você se preocupa e cuida de todos que ama. Família, amigos e eu. Você é aquela pessoa que todos podem contar quando precisa. Também admiro sua determinação em fazer as coisas darem certo. Sua positividade, honestidade, inteligência e várias outras.",POS,0.9734818339347839,0.022374246269464493,0.004143864382058382
+44,"Entrevistadora: Quando você pensa no nosso futuro, o que vem à sua mente?",NEU,0.02485891431570053,0.9500309228897095,0.02511008456349373
+45,"Entrevistada: Sobre o futuro, primeiramente eu espero que estejamos juntas e que continuemos fazendo as coisas darem certo com respeito, empatia e admiração.",POS,0.4888530671596527,0.48591166734695435,0.025235241279006004
+46,"Entrevistadora: Que conselho você daria para casais que estão começando uma história de distância,  como a nossa?",NEU,0.022310972213745117,0.9501453638076782,0.0275436881929636
+47,"Entrevistada: Para os casais que estão começando uma relação a distância, eu diria para terem paciência, planejamento juntos para se ver com uma data certa de encontro, que compartilhem sobre o dia a dia e cada momento, porque isso faz toda a diferença. É difícil, mas se existe um sentimento, a distância vai ser só um detalhe.",NEU,0.1176489070057869,0.7701025605201721,0.11224857717752457
+48,Quiz do casal:,NEU,0.07822605222463608,0.8956003189086914,0.026173550635576248
+49,"Entrevistadora: Agora, eu separei algumas perguntas que eu denominei como quiz do amor. São perguntas curtas, em tese com respostas rápidas e objetivas, você ou eu. Mas, eu gostaria que você justificasse a sua resposta. , eu vou te fazer uma pergunta, você me diz se é você ou se sou eu e por quê. Ok?",NEU,0.03339379280805588,0.901502788066864,0.06510338932275772
+50,Entrevistada: Ok.,NEU,0.06178968399763107,0.8860217928886414,0.05218842625617981
+51,Entrevistadora: Quem dorme mais?,NEU,0.022853735834360123,0.9581639170646667,0.018982309848070145
+52,"Entrevistada: Você. Porque qualquer cantinho aconchegante, você deita e dorme. E nem precisa ser aconchegante.",NEU,0.3063035011291504,0.6072803735733032,0.08641605079174042
+53,Entrevistadora: Quem cozinha melhor?,NEU,0.020438702777028084,0.9600169658660889,0.019544294103980064
+54,Entrevistada: Eu cozinho melhor. Porque eu estou sempre fazendo as coisinhas que você gosta de comer.,NEU,0.10728026926517487,0.8634200692176819,0.029299648478627205
+55,Entrevistadora: Quem é mais bagunceira?,NEU,0.01265824493020773,0.949079692363739,0.03826208785176277
+56,Entrevistada: Nenhuma. Tanto você quanto eu não somos muito organizadas em tudo.,NEU,0.019697779789566994,0.9286758303642273,0.05162644386291504
+57,Entrevistadora: Quem manda mensagem primeiro na maioria das vezes?,NEU,0.025135600939393044,0.9465640783309937,0.028300337493419647
+58,Entrevistada: Você. Porque eu sou mais orgulhosa.,NEU,0.2128768265247345,0.6916879415512085,0.09543520212173462
+59,Entrevistadora: Quem tem a risada mais engraçada?,NEU,0.3586183488368988,0.6152113080024719,0.026170309633016586
+60,Entrevistada: Você. Por quê? Não.,NEU,0.045031409710645676,0.7855213284492493,0.16944725811481476
+61,Entrevistadora: Quem é mais carinhosa?,NEU,0.1737118512392044,0.801252007484436,0.025036020204424858
+62,"Entrevistada: Vou considerar que eu sou mais carinhosa. Você também é, mas o seu carinho é um pouco bruto.",NEU,0.13548727333545685,0.7778390049934387,0.08667373657226562
+63,Entrevistadora: Quem é mais ciumenta?,NEU,0.028104320168495178,0.9433000683784485,0.02859560400247574
+64,Entrevistada: Eu sou mais ciumenta. Porque você é uma pessoa muito tranquila.,NEU,0.18411138653755188,0.7429857850074768,0.07290282845497131
+65,Entrevistadora: Quem é mais engraçadinha?,NEU,0.17648740112781525,0.7844334244728088,0.039079081267118454
+66,Entrevistada: Eu sou mais engraçada. Apesar de que você também tem um bom humor.,NEU,0.35043585300445557,0.5804709196090698,0.06909315288066864
+67,Entrevistadora: Quem lembra mais datas importantes?,NEU,0.02245287038385868,0.9623067378997803,0.015240299515426159
+68,Entrevistada: Nós duas lembramos.,NEU,0.047053586691617966,0.9213398694992065,0.031606525182724
+69,Entrevistadora: Quem é mais fitness?,NEU,0.01670554280281067,0.9680140018463135,0.015280401334166527
+70,Entrevistada: Você é mais fitness. E eu gosto de tudo muito salgadinho.,NEU,0.09318892657756805,0.8468095660209656,0.06000148132443428
+71,"Entrevistadora: , eu gostaria de te pedir para descrever a nossa relação. O que nós somos para você?",NEU,0.04079329967498779,0.9287075996398926,0.030499130487442017
+72,"Entrevistada: Somos a junção de duas pessoas que se amam muito. Diferentes, mas que combinam em muitas coisas. A junção de tudo que eu sempre quis viver e nem sabia que precisava. Estar com você faz com que eu me sinta bem. Saber que eu posso ser o mesmo é incrível. Nós nos conhecemos em todas as nossas particularidades, com todas as qualidades e defeitos. E ainda  escolhemos uma à outra. Somos amigas, namoradas e parceiras de vida. E eu te amo.",POS,0.8640223145484924,0.12335961312055588,0.012618065811693668
