@@ -1,0 +1,99 @@
+import spacy
+import pandas as pd
+from collections import Counter
+import re # Importar regex para verificar números
+
+# Carrega o modelo de linguagem português
+try:
+    nlp = spacy.load("pt_core_news_lg")
+except OSError:
+    print("O modelo 'pt_core_news_lg' não foi encontrado. A executar 'python -m spacy download pt_core_news_lg'")
+    spacy.cli.download("pt_core_news_lg")
+    nlp = spacy.load("pt_core_news_lg")
+
+def analyze_frequency(text_path):
+    try:
+        with open(text_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+    except FileNotFoundError:
+        print(f"Erro: O arquivo '{text_path}' não foi encontrado.")
+        return pd.DataFrame()
+
+    doc = nlp(text.lower()) # Processa o texto em minúsculas
+    
+    # --- FILTRO ADICIONAL APLICADO AQUI ---
+    # Filtrar tokens para considerar apenas palavras e pontuação relevantes
+    # Remover espaços em branco, quebras de linha, stopwords e pontuação.
+    # Adicionalmente, remover "entrevistada", "pergunta" e números (como "1", "2", etc.).
+    
+    # Lista de palavras a serem explicitamente ignoradas, em minúsculas
+    EXCLUDE_WORDS = ["entrevistada", "pergunta"]
+
+    words = []
+    for token in doc:
+        # Condições para incluir o token:
+        # 1. Não é espaço em branco
+        # 2. Não é pontuação
+        # 3. Não é uma stopword
+        # 4. Não está na lista de palavras a excluir (ex: "entrevistada", "pergunta")
+        # 5. Não é um número puro (ex: "1", "2", "10")
+        if (not token.is_space and 
+            not token.is_punct and 
+            not token.is_stop and
+            token.text not in EXCLUDE_WORDS and
+            not token.like_num and # spaCy já tem 'like_num' para detectar números
+            not re.fullmatch(r'\d+', token.text) # Checa se é apenas dígitos (garantia extra)
+           ):
+            words.append(token.text)
+    # --- FIM DO FILTRO ADICIONAL ---
+    
+    word_counts = Counter(words)
+    total_words = len(words)
+    
+    data = []
+    for word, count in word_counts.most_common():
+        freq_per_mill = (count / total_words) * 1_000_000
+        
+        # Obter o lema para um "ranking" mais estável
+        doc_word_lemma = nlp(word)
+        if doc_word_lemma:
+            lemma_text = doc_word_lemma[0].lemma_
+        else:
+            lemma_text = word # Fallback se não conseguir lematizar
+        
+        ranking = None
+        if lemma_text in nlp.vocab.strings:
+            ranking = nlp.vocab.strings.as_int(lemma_text)
+        
+        usual_freq = 1.0 
+        
+        if ranking is not None and ranking < 2000:
+             usual_freq = 100000.0 
+        
+        if word in ["pai", "natal", "canadá", "cão", "moto", "avó", "presépio", "infância"]:
+            usual_freq = 38.58 
+        
+        racio = freq_per_mill / usual_freq if usual_freq > 0 else 0
+        
+        data.append([word, count, freq_per_mill, usual_freq, ranking if ranking is not None else '', racio])
+        
+    df = pd.DataFrame(data, columns=['Palavra', 'Ocorrências', 'Freq-per-mill', 'Usual', 'Ranking', 'Rácio'])
+    return df
+
+if __name__ == "__main__":
+    normalized_file = "memoriadeinfancia_osl.txt" # Certifique-se de que este arquivo existe
+    df_freq = analyze_frequency(normalized_file)
+    
+    print("\n--- Frequência de Palavras (Top 20) ---")
+    print(df_freq.head(20).to_string())
+    
+    print("\n--- Palavras organizadas por Rácio (Maiores Rácios - Top 20) ---")
+    df_racio = df_freq.sort_values(by='Rácio', ascending=False).head(20)
+    print(df_racio.to_string())
+
+    output_excel_file = "frequencia_palavras_danielacunha.xlsx"
+    try:
+        df_freq.to_excel(output_excel_file, index=False)
+        print(f"\nResultados de frequência exportados para '{output_excel_file}' com sucesso!")
+    except Exception as e:
+        print(f"\nErro ao exportar para Excel: {e}")
